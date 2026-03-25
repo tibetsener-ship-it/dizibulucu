@@ -1,0 +1,15 @@
+{
+  "totalSearches": 42,
+  "topMoods": {
+    "emotional": 1,
+    "dark": 37,
+    "mind-blowing": 1,
+    "light": 2,
+    "easy-watch": 1
+  },
+  "topGenres": {
+    "action": 37,
+    "thriller": 4,
+    "drama": 1
+  }
+}

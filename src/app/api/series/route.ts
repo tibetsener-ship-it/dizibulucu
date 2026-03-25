@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getMultipleSeries } from '@/lib/tmdb';
+import { mockSeries } from '@/lib/data';
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -10,10 +10,20 @@ export async function GET(request: Request) {
   }
 
   const ids = idsParam.split(',').filter(Boolean);
-  const results = await getMultipleSeries(ids);
 
-  // Preserve the order of the original ids
-  results.sort((a, b) => ids.indexOf(a.id) - ids.indexOf(b.id));
+  // Önce mockSeries'den bak
+  const localResults = ids
+    .map(id => mockSeries.find(s => s.id === id))
+    .filter(Boolean);
 
-  return NextResponse.json({ results });
+  if (localResults.length > 0) {
+    return NextResponse.json({ results: localResults });
+  }
+
+  // mockSeries'de bulunamazsa TMDB'den dene
+  const { getMultipleSeries } = await import('@/lib/tmdb');
+  const tmdbResults = await getMultipleSeries(ids);
+  tmdbResults.sort((a, b) => ids.indexOf(a.id) - ids.indexOf(b.id));
+
+  return NextResponse.json({ results: tmdbResults });
 }

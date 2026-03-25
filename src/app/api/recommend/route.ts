@@ -9,17 +9,23 @@ function calculateScore(
   platform: string | undefined
 ): number {
   let score = 0;
-  if (platform && series.platforms.some(p => p.toLowerCase().includes(platform) || platform.includes(p.toLowerCase()))) {
+
+  const platforms = series.platforms || [];
+  const genres = series.genres || [];
+  const tags = series.tags || [];
+
+  if (platform && platforms.some(p => p.toLowerCase().includes(platform) || platform.includes(p.toLowerCase()))) {
     score += SCORING_CONFIG.platformWeight;
   }
-  if (genre && series.genres.some(g => g.toLowerCase().includes(genre) || genre.includes(g.toLowerCase()))) {
+  if (genre && genres.some(g => g.toLowerCase().includes(genre) || genre.includes(g.toLowerCase()))) {
     score += SCORING_CONFIG.genreWeight;
   }
-  if (mood && series.tags.some(t => t.toLowerCase().includes(mood) || mood.includes(t.toLowerCase()))) {
+  if (mood && tags.some(t => t.toLowerCase().includes(mood) || mood.includes(t.toLowerCase()))) {
     score += SCORING_CONFIG.tagWeight;
   }
-  score += (series.rating * SCORING_CONFIG.ratingWeight);
-  score += (series.popularity * SCORING_CONFIG.popularityWeight);
+
+  score += ((series.rating || 0) * SCORING_CONFIG.ratingWeight);
+  score += ((series.popularity || 0) * SCORING_CONFIG.popularityWeight);
   score += Math.random() * SCORING_CONFIG.randomnessWeight;
   return score;
 }
@@ -31,13 +37,11 @@ export async function GET(request: Request) {
     const mood = searchParams.get('mood')?.toLowerCase() || undefined;
     const platform = searchParams.get('platform')?.toLowerCase() || undefined;
 
-    // Track standard searches for community trend analysis
     if (genre || mood) {
       const { trackSearch } = await import('@/lib/tracker');
       trackSearch(genre, mood);
     }
 
-    // Sourced purely from the hyper-fast offline dataset
     const baseSeries = [...mockSeries];
 
     if (!baseSeries.length) return NextResponse.json({ results: [] });

@@ -1,0 +1,9 @@
+# www.dizibulucu.com.tr robots.txt
+User-agent: *
+Allow: /
+
+# Block private/API paths from indexing
+Disallow: /api/
+Disallow: /_next/
+
+Sitemap: https://www.dizibulucu.com.tr/sitemap.xml

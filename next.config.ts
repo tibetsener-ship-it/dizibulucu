@@ -1,12 +1,7 @@
 import type { NextConfig } from "next";
-import crypto from "crypto";
-
-// Her istek için benzersiz nonce üretir (CSP nonce desteği)
-const generateNonce = () => crypto.randomBytes(16).toString("base64");
 
 const nextConfig: NextConfig = {
   output: "standalone",
-
   images: {
     remotePatterns: [
       {
@@ -14,11 +9,13 @@ const nextConfig: NextConfig = {
         hostname: "image.tmdb.org",
         pathname: "/t/p/**",
       },
+      {
+        protocol: "https",
+        hostname: "images.unsplash.com",
+      },
     ],
   },
-
   async headers() {
-    const nonce = generateNonce();
     return [
       {
         source: "/(.*)",
@@ -26,11 +23,11 @@ const nextConfig: NextConfig = {
           {
             key: "Content-Security-Policy",
             value: [
-              `script-src 'self' 'nonce-${nonce}' 'strict-dynamic'`,
+              "script-src 'self' 'unsafe-eval' 'unsafe-inline'",
               "connect-src 'self' https://api.themoviedb.org",
-              "img-src 'self' https://image.tmdb.org data:",
-              "style-src 'self' 'unsafe-inline'",
-              "font-src 'self'",
+              "img-src 'self' https://image.tmdb.org https://images.unsplash.com data: blob:",
+              "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
+              "font-src 'self' https://fonts.gstatic.com",
             ].join("; "),
           },
           {

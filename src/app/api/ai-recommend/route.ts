@@ -1,128 +1,154 @@
 import { NextResponse } from 'next/server';
 import { mockSeries, Series } from '@/lib/data';
 
-// Simple heuristic NLP keyword maps
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+
+// Fast keyword fallback for when OpenAI is unavailable
 const keywordMap: Record<string, string[]> = {
-  'komik': ['comedy', 'light', 'easy-watch'],
+  'komik': ['comedy', 'easy-watch'],
   'gülmek': ['comedy', 'light'],
   'aksiyon': ['action', 'fast-paced'],
-  'heyecan': ['action', 'fast-paced', 'thriller'],
-  'korku': ['thriller', 'dark', 'mystery'],
+  'heyecan': ['action', 'thriller'],
+  'korku': ['thriller', 'dark'],
   'gerilim': ['thriller', 'mystery'],
-  'duygusal': ['emotional', 'drama', 'romance'],
+  'duygusal': ['emotional', 'drama'],
   'aşk': ['romance', 'emotional'],
   'ağlamak': ['emotional', 'drama'],
   'karışık': ['mind-blowing', 'mystery', 'sci-fi'],
   'beyin yakan': ['mind-blowing', 'sci-fi'],
-  'çerezlik': ['easy-watch', 'light', 'comedy'],
-  'ciddi': ['dark', 'drama', 'politics'],
-  'dark': ['dark', 'mystery', 'sci-fi', 'mind-blowing'], // Overlaps with the series 'Dark'
-  'bilim kurgu': ['sci-fi', 'tech', 'space'],
+  'çerezlik': ['easy-watch', 'comedy'],
+  'ciddi': ['dark', 'drama'],
+  'dark': ['dark', 'mystery', 'sci-fi'],
+  'bilim kurgu': ['sci-fi'],
+  'macera': ['action', 'epic'],
+  'suç': ['crime', 'thriller'],
+  'fantastik': ['fantasy', 'epic'],
+  'tarihi': ['historical'],
+  'doğaüstü': ['supernatural', 'mystery'],
 };
 
-const negations = ['az', 'olmasın', 'değil', 'olmasin', 'degil', 'istemiyorum', 'haric', 'hariç'];
+function keywordFallback(prompt: string, allSeries: Series[]): Series[] {
+  const lower = prompt.toLowerCase();
+  const requestedTags = new Set<string>();
+
+  for (const [keyword, tags] of Object.entries(keywordMap)) {
+    if (lower.includes(keyword)) tags.forEach(t => requestedTags.add(t));
+  }
+
+  // Reference series title (e.g. "Dark gibi")
+  for (const s of allSeries) {
+    if (lower.includes(s.title.toLowerCase())) {
+      s.tags.forEach(t => requestedTags.add(t));
+      s.genres.forEach(g => requestedTags.add(g));
+    }
+  }
+
+  interface Scored extends Series { score: number }
+  const scored: Scored[] = allSeries.map(s => {
+    let score = (s.rating - 7) * 0.5 + Math.random() * 2;
+    const attrs = [...s.tags, ...s.genres];
+    requestedTags.forEach(tag => { if (attrs.includes(tag)) score += 10; });
+    return { ...s, score };
+  });
+
+  return scored
+    .filter(s => s.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 5);
+}
 
 export async function POST(request: Request) {
   try {
     const { prompt } = await request.json();
 
-    if (!prompt) {
+    if (!prompt?.trim()) {
       return NextResponse.json({ error: 'Prompt is required' }, { status: 400 });
     }
 
-    // Track AI searches using the prompt as a generalized intent 
-    const { trackSearch } = await import('@/lib/tracker');
-    trackSearch("yapay-zeka", "özel");
+    // Track search
+    try {
+      const { trackSearch } = await import('@/lib/tracker');
+      trackSearch('yapay-zeka', 'özel');
+    } catch { /* analytics non-critical */ }
 
-    const lowerPrompt = prompt.toLowerCase();
-    
-    let requestedTags = new Set<string>();
-    let excludedTags = new Set<string>();
+    // ─── Real AI path ────────────────────────────────────────────────────────
+    if (OPENAI_API_KEY) {
+      // Build a compact catalogue for OpenAI (title + genres + tags only)
+      const catalogue = mockSeries.map(s => ({
+        id: s.id,
+        title: s.title,
+        genres: s.genres,
+        tags: s.tags,
+        rating: s.rating,
+      }));
 
-    // 1. Basic Tokenization & Keyword Extraction
-    Object.entries(keywordMap).forEach(([keyword, tags]) => {
-      // Check if keyword exists in prompt
-      if (lowerPrompt.includes(keyword)) {
-        // Is it negated? Check preceding words
-        const words = lowerPrompt.split(' ');
-        const index = words.findIndex((w: string) => w.includes(keyword) || keyword.includes(w));
-        
-        let isNegated = false;
-        if (index > 0) {
-          const prevWord = words[index - 1];
-          if (negations.some(n => prevWord === n || words.slice(Math.max(0, index-2), index+1).join(' ').includes(n))) {
-            isNegated = true;
+      const systemPrompt = `
+You are a smart TV series recommendation engine. 
+Given a user's request in Turkish or English, pick the best 5 series IDs from the provided catalogue.
+
+Rules:
+- Return ONLY a valid JSON array of exactly 5 series IDs (strings), e.g. ["123","456","789","101","202"]
+- Do NOT include any explanation or markdown
+- Prioritize relevance, rating quality, and variety
+- Understand mood, genre, and references (e.g. "Dark gibi" means similar to the show Dark)
+
+Catalogue (id, title, genres, tags, rating):
+${JSON.stringify(catalogue)}
+      `.trim();
+
+      const aiResponse = await fetch('https://api.openai.com/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${OPENAI_API_KEY}`,
+        },
+        body: JSON.stringify({
+          model: 'gpt-4o-mini',
+          messages: [
+            { role: 'system', content: systemPrompt },
+            { role: 'user', content: prompt },
+          ],
+          temperature: 0.4,
+          max_tokens: 100,
+        }),
+      });
+
+      if (aiResponse.ok) {
+        const aiData = await aiResponse.json();
+        let content = aiData.choices?.[0]?.message?.content?.trim() ?? '';
+
+        // Strip any markdown fences if present
+        content = content.replace(/```json|```/g, '').trim();
+
+        try {
+          const ids: string[] = JSON.parse(content);
+          const seriesMap = new Map(mockSeries.map(s => [s.id, s]));
+          const results = ids
+            .map(id => seriesMap.get(String(id)))
+            .filter(Boolean) as Series[];
+
+          if (results.length > 0) {
+            return NextResponse.json({ 
+              results, 
+              source: 'openai',
+              parsedIds: ids 
+            });
           }
+        } catch {
+          // JSON parse failed — fall through to keyword fallback
+          console.warn('[ai-recommend] OpenAI response not parseable, falling back');
         }
-
-        tags.forEach(t => {
-          if (isNegated) excludedTags.add(t);
-          else requestedTags.add(t);
-        });
-      }
-    });
-
-    // Extract exact series name mentions (e.g. "Dark gibi")
-    let targetSeries: Series | null = null;
-    for (const s of mockSeries) {
-      if (lowerPrompt.includes(s.title.toLowerCase())) {
-        targetSeries = s;
-        // Add its tags to our requested tags
-        s.tags.forEach(t => requestedTags.add(t));
-        s.genres.forEach(g => requestedTags.add(g));
-        break;
+      } else {
+        console.warn('[ai-recommend] OpenAI API error:', aiResponse.status, await aiResponse.text());
       }
     }
 
-    // 2. Score Series
-    interface ScoredSeries extends Series { score: number; }
-    
-    let scoredResults: ScoredSeries[] = mockSeries.map(series => {
-      let score = 0;
-      // Skip exact target if they said "like Dark", don't recommend Dark itself as #1 ideally, or give it lower score.
-      // Actually, if they asked for 'Dark', it should probably appear. We will let it appear.
-
-      const allSeriesAttributes = [
-        ...series.tags,
-        ...series.genres,
-        ...series.platforms,
-        series.title.toLowerCase()
-      ];
-
-      // requested logic
-      requestedTags.forEach(tag => {
-        if (allSeriesAttributes.includes(tag)) {
-          score += 10;
-        }
-      });
-
-      // excluded logic
-      excludedTags.forEach(tag => {
-        if (allSeriesAttributes.includes(tag)) {
-          score -= 20; // Heavy penalty
-        }
-      });
-
-      // Rating boost
-      score += Math.max(0, ((series.rating - 7) / 3) * 2);
-
-      // Inject random noise to shuffle identical or close queries
-      score += Math.random() * 3;
-
-      return { ...series, score };
-    });
-
-    // Filter out items with very negative scores if they match exclusions heavily
-    scoredResults = scoredResults.filter(s => s.score > 0 || (requestedTags.size === 0 && s.score >= 0));
-    scoredResults.sort((a, b) => b.score - a.score);
-
-    // Provide the top 5
-    const topResults = scoredResults.slice(0, 5);
-
-    return NextResponse.json({ results: topResults, parsedTags: Array.from(requestedTags) });
+    // ─── Keyword fallback (no API key or OpenAI failed) ──────────────────────
+    const results = keywordFallback(prompt, mockSeries);
+    return NextResponse.json({ results, source: 'keyword-fallback' });
 
   } catch (error) {
-    console.error('AI Recommend Error:', error);
+    console.error('[ai-recommend] Unexpected error:', error);
     return NextResponse.json({ error: 'Failed to process prompt' }, { status: 500 });
   }
 }
