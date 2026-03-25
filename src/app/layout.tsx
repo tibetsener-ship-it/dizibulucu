@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 const SITE_URL = "https://www.dizibulucu.com.tr";
-const OG_IMAGE = `${SITE_URL}/og-image.svg`;
+const OG_IMAGE = `${SITE_URL}/og-image.png`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
         width: 1200,
         height: 630,
         alt: "Dizibulucu – Yapay Zeka Destekli Dizi Öneri Platformu",
-        type: "image/svg+xml",
+        type: "image/png",
       },
     ],
   },
