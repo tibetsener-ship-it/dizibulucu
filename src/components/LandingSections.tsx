@@ -11,17 +11,20 @@ const scrollToApp = () => {
   }
 };
 
-export function Navbar() {
+export function Navbar({ onLogoClick }: { onLogoClick?: () => void }) {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-black/50 backdrop-blur-lg border-b border-white/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
-        <div className="flex items-center gap-2 cursor-pointer" onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})}>
+        <div
+          className="flex items-center gap-2 cursor-pointer"
+          onClick={onLogoClick || (() => window.scrollTo({ top: 0, behavior: 'smooth' }))}
+        >
           <div className="w-8 h-8 rounded bg-primary flex items-center justify-center">
             <Film className="w-5 h-5 text-white" />
           </div>
           <span className="font-bold text-xl tracking-tight text-white">dizibulucu</span>
         </div>
-        <button 
+        <button
           onClick={scrollToApp}
           className="px-6 py-2.5 bg-white/10 hover:bg-white/20 text-white text-sm font-semibold rounded-full transition-colors border border-white/10"
         >
@@ -35,7 +38,6 @@ export function Navbar() {
 export function Hero() {
   return (
     <section className="relative min-h-screen flex text-center items-center justify-center pt-24 pb-16 px-4 overflow-hidden">
-      {/* Background Glow */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-primary/20 blur-[150px] rounded-full opacity-50 pointer-events-none" />
       
       <motion.div 
@@ -213,7 +215,6 @@ export function AiFeatureSection() {
           </div>
         </div>
 
-        {/* Non-functional mock representation pointing to real feature */}
         <div className="max-w-2xl mx-auto relative glass-card p-2 md:p-3 rounded-2xl md:rounded-full border border-white/10 shadow-2xl flex items-center">
           <Search className="w-5 h-5 text-white/30 ml-4 absolute pointer-events-none" />
           <input 
