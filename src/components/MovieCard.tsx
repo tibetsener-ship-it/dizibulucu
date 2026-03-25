@@ -1,3 +1,5 @@
+'use client';
+
 import Image from 'next/image';
 import { motion } from 'framer-motion';
 import { Star } from 'lucide-react';
@@ -8,7 +10,21 @@ interface MovieCardProps {
   onClick: () => void;
 }
 
+const PLATFORM_LABELS: Record<string, { label: string; color: string }> = {
+  'netflix':    { label: 'N',         color: '#E50914' },
+  'amazon':     { label: 'Prime',     color: '#00A8E0' },
+  'disney':     { label: 'D+',        color: '#113CCF' },
+  'hbo':        { label: 'HBO',       color: '#9B59B6' },
+  'apple-tv':   { label: '🍎 TV+',   color: '#555555' },
+  'mubi':       { label: 'MUBI',      color: '#FF6600' },
+  'paramount':  { label: 'P+',        color: '#0064FF' },
+};
+
 export function MovieCard({ series, onClick }: MovieCardProps) {
+  const mainPlatform = series.platforms && series.platforms.length > 0
+    ? PLATFORM_LABELS[series.platforms[0]]
+    : null;
+
   return (
     <motion.div
       layoutId={`card-container-${series.id}`}
@@ -28,17 +44,27 @@ export function MovieCard({ series, onClick }: MovieCardProps) {
         />
         {/* Gradient Overlay */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-80 group-hover:opacity-100 transition-opacity duration-300" />
+
+        {/* Platform Badge - sağ alt köşe */}
+        {mainPlatform && (
+          <div
+            className="absolute bottom-2 right-2 px-2 py-0.5 rounded text-white text-[10px] font-black tracking-wider shadow-lg z-10"
+            style={{ backgroundColor: mainPlatform.color }}
+          >
+            {mainPlatform.label}
+          </div>
+        )}
       </div>
 
       {/* Content */}
       <div className="absolute bottom-0 left-0 right-0 p-5 p-4 flex flex-col justify-end translate-y-4 group-hover:translate-y-0 transition-transform duration-300">
-        <motion.h3 
+        <motion.h3
           layoutId={`title-${series.id}`}
           className="text-xl font-bold text-white mb-2 line-clamp-1"
         >
           {series.title}
         </motion.h3>
-        
+
         <div className="flex items-center gap-3 mb-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-100">
           <div className="flex items-center text-yellow-500 font-semibold text-sm">
             <Star className="w-4 h-4 fill-current mr-1" />
@@ -51,7 +77,7 @@ export function MovieCard({ series, onClick }: MovieCardProps) {
 
         {/* Tags */}
         <div className="flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-150">
-          {series.tags.slice(0, 2).map(tag => (
+          {(series.tags || []).filter(t => t !== 'unknown').slice(0, 2).map(tag => (
             <span key={tag} className="px-2 py-1 text-[10px] font-medium tracking-wider uppercase rounded bg-white/10 text-white/80 border border-white/10">
               {tag}
             </span>

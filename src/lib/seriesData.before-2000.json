@@ -1642,6 +1642,26 @@
     "year": 2021
   },
   {
+    "id": "86",
+    "title": "Last Way",
+    "genres": [
+      "crime"
+    ],
+    "tags": [
+      "dark"
+    ],
+    "rating": 6.1,
+    "popularity": 13,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Last Way dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/zlklUOEFVS0DsFgJqd08todxQ5E.jpg",
+    "duration": "long",
+    "year": 2023
+  },
+  {
     "id": "87",
     "title": "Project Dimension",
     "genres": [
@@ -1680,6 +1700,26 @@
     "backdropUrl": "https://image.tmdb.org/t/p/original/fzoztaBXF8s6sIrEtwBsXHUUCVM.jpg",
     "duration": "long",
     "year": 2004
+  },
+  {
+    "id": "98",
+    "title": "Lost Sky",
+    "genres": [
+      "drama"
+    ],
+    "tags": [
+      "emotional"
+    ],
+    "rating": 6.3,
+    "popularity": 14,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Lost Sky dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mbYJmN2QoPrAVx9x9hXDrEuPQnB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/3dVdhMPbbH5TkQYjjzTM12hzccp.jpg",
+    "duration": "long",
+    "year": 2009
   },
   {
     "id": "99",
@@ -2157,6 +2197,26 @@
     "year": 2012
   },
   {
+    "id": "183",
+    "title": "Lost Street",
+    "genres": [
+      "thriller"
+    ],
+    "tags": [
+      "thriller"
+    ],
+    "rating": 6.3,
+    "popularity": 76,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Lost Street dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3tImJP8c7DUtMneAzYTBAZJA181.jpg",
+    "backdropUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1920&q=80",
+    "duration": "long",
+    "year": 2024
+  },
+  {
     "id": "186",
     "title": "The Realm",
     "genres": [
@@ -2530,6 +2590,26 @@
     "year": 2024
   },
   {
+    "id": "256",
+    "title": "Falling Revenge",
+    "genres": [
+      "drama"
+    ],
+    "tags": [
+      "emotional"
+    ],
+    "rating": 6.3,
+    "popularity": 53,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Zengin bir adam için terk edilen Wu Suo Wei, intikam almak için harekete geçer: Amacı, eski sevgilisinin yeni erkek arkadaşı Chi Cheng’i baştan çıkarmaktır. Ancak Chi Cheng’in ona gerçekten âşık olması, ikisinin arasındaki bu manipülasyon oyununu hiç beklenmedikleri bir şeye dönüştürür: Gerçek duygulara…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qXB8wIuRQ4boWSZSoLFAu5g6K9l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/meWe2hrruxmVWT75LObGywpuEqI.jpg",
+    "duration": "long",
+    "year": 2025
+  },
+  {
     "id": "258",
     "title": "Project Truth",
     "genres": [
@@ -2650,6 +2730,28 @@
     "backdropUrl": "https://image.tmdb.org/t/p/original/5K7JqnbMkXzXYUIxzkkSYfQPrye.jpg",
     "duration": "long",
     "year": 1976
+  },
+  {
+    "id": "276",
+    "title": "Operation Way",
+    "genres": [
+      "romance",
+      "comedy"
+    ],
+    "tags": [
+      "emotional",
+      "light"
+    ],
+    "rating": 6.4,
+    "popularity": 81,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Operation Way dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/soPSyPPTrUJPMRr2tCzDJJxsKWc.jpg",
+    "backdropUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1920&q=80",
+    "duration": "long",
+    "year": 2024
   },
   {
     "id": "277",
@@ -3002,6 +3104,26 @@
     "year": 2021
   },
   {
+    "id": "351",
+    "title": "Hidden River",
+    "genres": [
+      "thriller"
+    ],
+    "tags": [
+      "dark"
+    ],
+    "rating": 6,
+    "popularity": 94,
+    "platforms": [
+      "disney"
+    ],
+    "description": "Hidden River dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/unTgorMfjckJQHTNxsnx1QkhLkG.jpg",
+    "backdropUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1920&q=80",
+    "duration": "long",
+    "year": 2022
+  },
+  {
     "id": "354",
     "title": "Fallen Sky",
     "genres": [
@@ -3186,6 +3308,28 @@
     "year": 2020
   },
   {
+    "id": "374",
+    "title": "The Way",
+    "genres": [
+      "sci-fi",
+      "comedy"
+    ],
+    "tags": [
+      "sci-fi",
+      "light"
+    ],
+    "rating": 5.6,
+    "popularity": 80,
+    "platforms": [
+      "hbo"
+    ],
+    "description": "The Way dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xcTF1F6YWVrGTqrXatNkJL7ePPN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/cxRgvLqXQhkQeywNo3dJApaw9AQ.jpg",
+    "duration": "long",
+    "year": 2024
+  },
+  {
     "id": "393",
     "title": "The Galaxy",
     "genres": [
@@ -3226,6 +3370,28 @@
     "year": 2024
   },
   {
+    "id": "395",
+    "title": "The Valley",
+    "genres": [
+      "comedy",
+      "thriller"
+    ],
+    "tags": [
+      "light",
+      "thriller"
+    ],
+    "rating": 5.7,
+    "popularity": 10,
+    "platforms": [
+      "hbo"
+    ],
+    "description": "The Valley dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xnG11iVjSFq6fbQZZZ5872qWPbh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/nGBWSonchWojfZMV1eLOYoaq2R3.jpg",
+    "duration": "long",
+    "year": 2024
+  },
+  {
     "id": "396",
     "title": "Operation Secret",
     "genres": [
@@ -3246,6 +3412,26 @@
     "backdropUrl": "https://image.tmdb.org/t/p/original/6TZ17sWxSfqfvOsYyHO76XcRFsR.jpg",
     "duration": "long",
     "year": 1983
+  },
+  {
+    "id": "397",
+    "title": "First World",
+    "genres": [
+      "drama"
+    ],
+    "tags": [
+      "emotional"
+    ],
+    "rating": 6.4,
+    "popularity": 26,
+    "platforms": [
+      "hbo"
+    ],
+    "description": "First World dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sKcIql5FsCRIagmDcXrLjxa2VRm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/g0hQsvgMgMKbmDkT8VbGwGIFi1a.jpg",
+    "duration": "long",
+    "year": 2014
   },
   {
     "id": "399",
@@ -3371,6 +3557,28 @@
     "year": 2022
   },
   {
+    "id": "421",
+    "title": "The Honor",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "tags": [
+      "light",
+      "emotional"
+    ],
+    "rating": 6.4,
+    "popularity": 61,
+    "platforms": [
+      "netflix"
+    ],
+    "description": "The Honor dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cNJjS7JSKEYOCrwYwQAmGeRsKxI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/nosqAS5dUBwYvZasgDBcAxwZjBm.jpg",
+    "duration": "long",
+    "year": 1978
+  },
+  {
     "id": "422",
     "title": "Last Way",
     "genres": [
@@ -3411,6 +3619,46 @@
     "year": 1990
   },
   {
+    "id": "440",
+    "title": "Last Power",
+    "genres": [
+      "drama"
+    ],
+    "tags": [
+      "emotional"
+    ],
+    "rating": 6.2,
+    "popularity": 36,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Film, II. Charles’ın İngiltere tahtına dönüşüyle başlayan dönemi ve saray çevresindeki gösterişli, zevk düşkünü yaşamı konu alıyor. Uzun yıllar süren sürgün ve yoksulluktan sonra Charles, 30. yaş gününde kral olarak geri döner. Ancak ülke salgın, büyük Londra yangını ve bitmek bilmeyen savaşlarla sarsılmaktadır. Kral, Barbara Villiers, Fransız casusu Louise De Keroualle ve ünlü aktris Nell Gwynn gibi kadınlarla çalkantılı ilişkiler yaşar. Film, hem siyasi entrikalarla hem de tutkulu aşklar ve lüksle dolu bir dönemin canlı bir portresini sunuyor.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5ZeWc9b8ShRdbJSY2NR3XkI7zoX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/ozjJFkuWVwUEOKmw61lcQEW8Jkm.jpg",
+    "duration": "long",
+    "year": 2003
+  },
+  {
+    "id": "441",
+    "title": "Endless Night",
+    "genres": [
+      "thriller"
+    ],
+    "tags": [
+      "thriller"
+    ],
+    "rating": 5.3,
+    "popularity": 15,
+    "platforms": [
+      "netflix"
+    ],
+    "description": "Endless Night dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qpJ7qFWce5GdMypTH0hKlGv6tKH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/bQfFW2qUicVE7zAVWpbvDSCOdqi.jpg",
+    "duration": "long",
+    "year": 2022
+  },
+  {
     "id": "442",
     "title": "Endless Revenge",
     "genres": [
@@ -3431,6 +3679,26 @@
     "backdropUrl": "https://image.tmdb.org/t/p/original/x5agwnEVdRd3jBa1mxMBkA7knOx.jpg",
     "duration": "long",
     "year": 2022
+  },
+  {
+    "id": "446",
+    "title": "Code Sun",
+    "genres": [
+      "crime"
+    ],
+    "tags": [
+      "dark"
+    ],
+    "rating": 6.4,
+    "popularity": 46,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Code Sun dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7RypAuPZSrz4YO8KnJrCaZs38Z2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/8QIDlQ27wcscZ6cFvmpioIECXlL.jpg",
+    "duration": "long",
+    "year": 2024
   },
   {
     "id": "448",
@@ -3493,6 +3761,26 @@
     "year": 2025
   },
   {
+    "id": "454",
+    "title": "Crimson River",
+    "genres": [
+      "drama"
+    ],
+    "tags": [
+      "emotional"
+    ],
+    "rating": 4.8,
+    "popularity": 46,
+    "platforms": [
+      "amazon"
+    ],
+    "description": "Crimson River dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/npELOGNBKZVbSt8kMiBWuFYQnBD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/44iXFa25gH81YaeweRUr8H1rPwg.jpg",
+    "duration": "long",
+    "year": 2020
+  },
+  {
     "id": "457",
     "title": "Broken Justice",
     "genres": [
@@ -3511,6 +3799,48 @@
     "backdropUrl": "https://image.tmdb.org/t/p/original/n00mqaR8e8QRrh9cNkpT9DoOPdM.jpg",
     "duration": "long",
     "year": 2021
+  },
+  {
+    "id": "458",
+    "title": "Rising Star",
+    "genres": [
+      "thriller",
+      "comedy"
+    ],
+    "tags": [
+      "thriller",
+      "light"
+    ],
+    "rating": 5.7,
+    "popularity": 95,
+    "platforms": [
+      "hbo"
+    ],
+    "description": "Rising Star dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xueOihptQhTo7hXydIODqzIQwLj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/hiJgs388CNrYkoA1HCDnkZZHiOC.jpg",
+    "duration": "long",
+    "year": 2017
+  },
+  {
+    "id": "463",
+    "title": "Code Secret",
+    "genres": [
+      "drama"
+    ],
+    "tags": [
+      "emotional"
+    ],
+    "rating": 6.2,
+    "popularity": 6,
+    "platforms": [
+      "netflix"
+    ],
+    "description": "Code Secret dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kQNTlwTUEBmwwTYjU9OPgpL2QtN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/j26KgSNWdeQRgkZKzNNlO0xNsue.jpg",
+    "duration": "long",
+    "year": 2008
   },
   {
     "id": "464",
@@ -3775,6 +4105,26 @@
     "backdropUrl": "https://image.tmdb.org/t/p/original/3j0wdWGDa4p4lBKkdO7Vlg81Oab.jpg",
     "duration": "long",
     "year": 2025
+  },
+  {
+    "id": "496",
+    "title": "Project Night",
+    "genres": [
+      "crime"
+    ],
+    "tags": [
+      "light"
+    ],
+    "rating": 6.1,
+    "popularity": 11,
+    "platforms": [
+      "hbo"
+    ],
+    "description": "Project Night dizisi.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t0hb5F1VIXcXlLFzPvykjXJ8DLM.jpg",
+    "backdropUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1920&q=80",
+    "duration": "long",
+    "year": 2005
   },
   {
     "id": "497",
@@ -37287,1315 +37637,5 @@
     ],
     "duration": "medium",
     "year": 2025
-  },
-  {
-    "id": "138503",
-    "title": "Your Friendly Neighborhood Spider-Man",
-    "description": "Peter Parker kahraman olma yolundadır ama bu yol hiç sıradan değildir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
-    "rating": 7.76,
-    "popularity": 13,
-    "genres": [
-      "animation",
-      "action",
-      "sci-fi",
-      "comedy"
-    ],
-    "platforms": [
-      "disney"
-    ],
-    "tags": [
-      "action"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "226362",
-    "title": "Sonsuzluk Yolcusu",
-    "description": "Milyonlarca insanı öldüren toksik bir kar yağışının ardından Juan Salvo ile Buenos Aires'te hayatta kalan bir grup insan, dünya dışından görünmez bir tehdide karşı direnmelidir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7gT79KFAE4MGfA2C1N8ZAIEKq7u.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
-    "rating": 7.499,
-    "popularity": 13,
-    "genres": [
-      "drama",
-      "action",
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "action",
-      "sci-fi"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "215866",
-    "title": "American Primeval",
-    "description": "Geçmişlerinden kaçan bir anne ve oğul, Amerikan Batı Yakası'nın özgürlük ve zalimlikle harmanlanmış sert coğrafyasında kendilerine bir aile kurarlar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
-    "rating": 7.666,
-    "popularity": 13,
-    "genres": [
-      "western",
-      "drama",
-      "action"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "dark"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "229711",
-    "title": "Ödül Avcısı",
-    "description": "Öldürülen ödül avcısı Hub Halloran, Cehennem hapishanesinden kaçan iblisleri avlamak için Şeytan tarafından diriltilir. Arasının bozuk olduğu ailesinin yardımı ve engeliyle bu iblisleri kovalayan Hub, kendi günahlarının ruhunu nasıl lanetlediğini öğrenir -- bu da onu hayata, aşka ve country müziğe ikinci bir şans aramaya iter.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uyurFAl48L0ePcuYP5ZLnR8WvtU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
-    "rating": 7.233,
-    "popularity": 12,
-    "genres": [
-      "action",
-      "sci-fi",
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "dark"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "242054",
-    "title": "The Residence",
-    "description": "Zeki ve eksantrik bir dedektif, Beyaz Saray başkanlık konutunda işlenen bir cinayeti çözmelidir. Üstelik bir devlet ziyafetindeki tüm personel ve konuklar, cinayetin şüphelisidir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cJZbg425I9LF3SlJVQDOg4nJEvq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/rhwN3mIN89zlDveR0gv0VkrspXa.jpg",
-    "rating": 7.555,
-    "popularity": 12,
-    "genres": [
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery",
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "236429",
-    "title": "On Call",
-    "description": "Bizi Long Beach Polisi ile bir devriye arabası ve sokaklarda dolaştıran son derece adrenalin yüklü bir polisiye. Eğitim amiri Traci Harmon ve acemi Alex Diaz ile bu dizide mesleğin karmaşıklığının insanları nasıl etkilediği inceleniyor. Harmon sokaklardaki bir çocuk tarafından aydınlatılırken Diaz da polis mesleğinin tamamen siyah ve beyaz olmadığını, gri alanlarının da olduğunu öğrenir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3MvgPuQfBrJ54lGqTZ6dwhG61rC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/urgOc75FXlEU64eToxSypCarJoN.jpg",
-    "rating": 7.343,
-    "popularity": 12,
-    "genres": [
-      "crime",
-      "drama",
-      "action"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "dark",
-      "emotional",
-      "action"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "256317",
-    "title": "Geri Sayım",
-    "description": "Bir Millî Güvenlik Bakanlığı polisinin güpegündüz öldürülmesi üzerine, olayı araştırmak için LAPD dedektifi Mark Meachum ve kolluk kuvvetlerinin tüm branşlarından ajanlarla gizli bir görev gücü kurulur. Ancak çok geçmeden bu katil avı, kimsenin hayal edemeyeceği kadar karanlık bir komployu ortaya çıkarır ve milyonlarca insanın yaşadığı şehri kurtarmak için zamana karşı bir yarış başlar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jAJbV9w5vQTxMkwnFaosVkWuwBz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/4pxGvtwxDlATy9nvJMvYL8u25LZ.jpg",
-    "rating": 7.246,
-    "popularity": 12,
-    "genres": [
-      "crime",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery",
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "228305",
-    "title": "Task",
-    "description": "Philadelphia'nın dışında, işçi sınıfının yaşadığı banliyölerde, aslında sıradan bir aile babası olan bir adam, bir dizi uyuşturucu evi soygununa liderlik etmektedir. Bir FBI ajanı, bu soygunlara son vermek için özel bir görev gücü kurar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
-    "rating": 6.822,
-    "popularity": 12,
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "246381",
-    "title": "Prime Target",
-    "description": "Dâhi matematik öğrencisi büyük bir buluş yapmak üzereyken şüpheli bir düşman onu durdurmaya çalışır. Cevap bulmak ve hayatta kalmak için savaşırken çok riskli bir komployu çözmek için bir hükûmet ajanıyla iş birliği yapar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bGYCimDXRL7cE3uETLZzMCFOdJo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/4LBPDopxQXtK3t6mea7CV5AWNk6.jpg",
-    "rating": 6.815,
-    "popularity": 11,
-    "genres": [
-      "drama",
-      "action"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "196890",
-    "title": "Chief of War",
-    "description": "Hawaii’nin dört krallığı savaşla bölünmüştür. Varoluşsal bir tehlike, kıyılarına yaklaşırken güçlü savaşçı Kaʻiana halkını birleştirmek amacıyla devasa bir göreve girişir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/2c3PCbxVgWen5HrYsaukUmfu4J9.jpg",
-    "rating": 7.316,
-    "popularity": 11,
-    "genres": [
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "253372",
-    "title": "The Institute",
-    "description": "On iki yaşında bir çocuk olan Luke Ellis’in ailesi, gece yarısı kapılarını çalan davetsiz misafirler tarafından öldürülür. Kaçırılan küçük çocuk gözlerini açtığında kendisini bir enstitüde bulur. Burada kendisi gibi doğaüstü yetenekleri olan birçok çocuk vardır. Enstitüde çocuklar üzerinde deneyler yapılmaktadır ve çocuklar bu deneyler sonucu bazı çocukların öldüğünden şüphelenir. Luke ve yeni arkadaşları, enstitüden kaçmanın yolunu arar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
-    "rating": 7.598,
-    "popularity": 11,
-    "genres": [
-      "mystery",
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mind-blowing",
-      "dark",
-      "thriller"
-    ],
-    "duration": "long",
-    "year": 2025
-  },
-  {
-    "id": "227114",
-    "title": "Kelebek",
-    "description": "Güney Kore'de gizli bir yaşam süren gizemli eski ABD istihbarat ajanı David Jung'un hayatı, geçmişte aldığı zor kararın sonuçlarının peşinden gelmesiyle paramparça olur. Kendini, ölümcül genç suikastçı Rebecca ve onun çalıştığı kötü niyetli casus örgütü Caddis için bir av durumunda bulur.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pkpjAsSPCmUIdruMwpgBctkrQ2H.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/kPOm8uBC7ajkjCWC0NM2lRbhRLs.jpg",
-    "rating": 7.103,
-    "popularity": 11,
-    "genres": [
-      "action",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "thriller",
-      "action"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "233742",
-    "title": "Newtopia",
-    "description": "Askere geç yazılan Jae-yoon ve sevgilisi Young-joo yanlış anlaşılmalar nedeniyle telefon üzerinden ayrılırlar. Ama bir zombi saldırısı dünyayı sallar. Ülkede ulusal acil durum ilan edilmiştir, bir uçak şehir merkezine düşer ve Jae-yoon ve birliği Seul'daki bir gökdelenin tepesinde hapsolmuşlardır. Young-joo onu bulmak için zombi dolu sokaklara iner. İkilinin aşkı kıyametten sağ çıkabilecek mi?",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hAQfSdDqGd5v53ry41WCD7ssf5Z.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "rating": 7.918,
-    "popularity": 10,
-    "genres": [
-      "sci-fi",
-      "action",
-      "comedy",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "sci-fi",
-      "action",
-      "light",
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2025
-  },
-  {
-    "id": "284445",
-    "title": "タコピーの原罪",
-    "description": "タコピーの原罪 dizisi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aIZldplw1isQQSjaLS0o3SEob9H.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
-    "rating": 8.856,
-    "popularity": 10,
-    "genres": [
-      "animation",
-      "drama",
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mind-blowing"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "247619",
-    "title": "Abartmak",
-    "description": "Benito Skinner imzalı Abartmak, üniversite ortamında geçen, kaotik ve bol karakterli bir komedi. Henüz açılmamış bir eşcinsel olan eski futbolcu ve balo kralı Benny, ne pahasına olursa olsun ortama uyum sağlamak isteyen Carmen'le sıkı bir dostluk kurar. Hem komik hem de kişisel bir anlatı sunan dizi, kendimizi bulmaya çalışırken ne kadar aşırıya kaçabildiğimizi gözler önüne seriyor.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iJpiZt3bej2kq4Xa6QE6yeeTkn5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/vG1nIg9epHFzjqOlyiOlWkeKlXw.jpg",
-    "rating": 7.3,
-    "popularity": 10,
-    "genres": [
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "light"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "241405",
-    "title": "Dying for Sex",
-    "description": "Molly Kochan 4. evre meme kanseri teşhisini duyduktan sonra kocasını terk eder ve hayatında ilk defa cinsel arzularını tüm karmaşıklığını keşfe çıkar. Bu macerada en yakın arkadaşı Nikki Boyer sonuna kadar yanında olur.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xaKb3cTh8mT6fgLSXuqo4JoS0dU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/bVgcsQddGZ71kTXGrFJOn1fDEZj.jpg",
-    "rating": 6.604,
-    "popularity": 9,
-    "genres": [
-      "drama",
-      "comedy"
-    ],
-    "platforms": [
-      "disney"
-    ],
-    "tags": [
-      "emotional",
-      "light"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "248852",
-    "title": "UNTAMED",
-    "description": "Geniş bir alana yayılan Yosemite Milli Parkı'nda bir kadının ölümü bir federal ajanı, doğanın kurallarından başka kuralın geçmediği kanunsuz bir bölgeye sürükler.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tclYY8RGieQwkJXDxZGf505Zybr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/oGsh97JAA6LYu92B6TEswrjac8W.jpg",
-    "rating": 7.244,
-    "popularity": 9,
-    "genres": [
-      "mystery",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery",
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "249039",
-    "title": "Black Rabbit",
-    "description": "Yıldızı giderek parlayan bir restoran işletmecisi, hayatı altüst olan kardeşinin peşinde tefecilerle şehre dönmesi yüzünden New York'un suç dünyasına adım atmak zorunda kalır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
-    "rating": 7,
-    "popularity": 9,
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "217553",
-    "title": "The Trauma Code: Heroes on Call",
-    "description": "Savaş görmüş bir doktor, üstün bir travma merkezi oluşturmak için açık sözlülüğünü ve becerilerini kullanarak ekibini hayat kurtaran asi ruhlu kahramanlara dönüştürür.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yCjhV8ss6L6wTezkhq5F5TIiyV4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-    "rating": 8.53,
-    "popularity": 9,
-    "genres": [
-      "drama",
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "light"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "232402",
-    "title": "S Line",
-    "description": "Dizi, insanların başlarının üzerinde beliren gizemli kırmızı bir çizgiyi konu alıyor. Bu çizgi, onların cinsel ilişkiye girdikleri kişilerle bağlantılı olarak ortaya çıkmaktadır. Han Ji Uk, bu gizemli kırmızı çizginin ardındaki gerçeği ortaya çıkarmaya kararlı bir dedektiftir. Gyu Jin, biraz tuhaf karakterli bir lise öğretmenidir. Hyun Heup ise doğduğundan beri bu kırmızı çizgiyi görebilen bir lise öğrencisidir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/worzO1lyLDDbKniQbFJKqPOEu2n.jpg",
-    "rating": 7.539,
-    "popularity": 9,
-    "genres": [
-      "sci-fi",
-      "drama",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "sci-fi",
-      "emotional",
-      "mystery"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "246992",
-    "title": "Sirens",
-    "description": "Kız kardeşinin milyarder patronuyla kurduğu aşırı samimi ilişkiden endişe duyan sert mizaçlı, sıradan bir kadın, lüks bir yazlık evde sorularına cevap arar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mezbwX9gFWTXl0XiicS5ZMcdXVx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/nFOufr0IvCtMLyTleHOrtyj0htv.jpg",
-    "rating": 6.7,
-    "popularity": 8,
-    "genres": [
-      "drama",
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "dark",
-      "light"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "279601",
-    "title": "Man vs Baby",
-    "description": "Beceriksiz baba Trevor Noel'de, Londra'daki lüks çatı katı dairesine göz kulak olurken terk edilen bir bebeğe de bakmak zorunda kalır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
-    "rating": 6.769,
-    "popularity": 8,
-    "genres": [
-      "comedy",
-      "family"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "light",
-      "easy-watch"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "244623",
-    "title": "Running Point",
-    "description": "Artık uslanmış olan uçarı bir kız, hiç ummadığı bir anda ailesinin profesyonel basketbol takımının başına getirildiğinde bir iş kadını olarak kendini kanıtlamak zorunda kalır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/xY3RLTXgV0IHmyPAE97p3ePWY1R.jpg",
-    "rating": 7.14,
-    "popularity": 8,
-    "genres": [
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "easy-watch",
-      "light"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "215522",
-    "title": "Yalancılar",
-    "description": "Geçirdiği gizemli kazada hafızasını yitiren 17 yaşındaki Cadence cevaplar bulmak üzere kazadan bir yıl sonra Martha's Vineyard Koyu'ndaki Kayın Adası'na döner. Seçkin Sinclair ailesinin üç kuşağı özel yaz ütopyalarında bir araya geldiklerinde çocukluk arkadaşları \"Yalancılar\" ve ilk aşkı Gat dâhil kimse kazadan bahsetmeyince Cadence gerçekleri tek başına ortaya çıkarmak zorunda kalır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cDmqOTehQi91z660q5UPEgLBUbO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/trSbjzHQlCxykhGfnS0JMgsGbCC.jpg",
-    "rating": 7.24,
-    "popularity": 8,
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "mystery"
-    ],
-    "duration": "long",
-    "year": 2025
-  },
-  {
-    "id": "122781",
-    "title": "Asteriks ve Oburiks: Şefler Savaşı",
-    "description": "Büyücüleri sihirli iksirin tarifini unutunca Galyalıları savunmak Asteriks ve Oburiks'e düşer. Sezar bu sırada eski bir kanunu onlara karşı kullanma planları yapmaktadır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/rLUC7hOsXtYCg1DfUIVpnes4VJX.jpg",
-    "rating": 7.802,
-    "popularity": 8,
-    "genres": [
-      "animation",
-      "action",
-      "comedy",
-      "sci-fi",
-      "family"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "easy-watch",
-      "action",
-      "light",
-      "sci-fi"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "232766",
-    "title": "Mercy for None",
-    "description": "Çetesiyle bağlarını koparmış eski bir gangster, kardeşinin ölümünün ardındaki gerçeği ortaya çıkarmak için amansız bir intikam yolculuğuna çıkar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/moKcq3vV0WlYkqln1g48cIgOPue.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
-    "rating": 7.746,
-    "popularity": 8,
-    "genres": [
-      "action",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "action",
-      "emotional"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "259669",
-    "title": "Olympo",
-    "description": "Bir yüzücü, yüksek performans spor merkezinde bayılınca Amaia, sporcu arkadaşlarının hırsları uğruna aldıkları aşırı riskleri araştırmaya koyulur.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6BgcsLnjFiizUFSZchctgeZJRzY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/fWOagGfFtMm70U8BtWPlVRW6efu.jpg",
-    "rating": 7.713,
-    "popularity": 8,
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "mystery"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "243316",
-    "title": "Dört Mevsim",
-    "description": "Üç evli çiftin uzun yıllara dayanan dostluğu, çiftlerden birinin boşanmasıyla sınanır ve üç ayda bir yaptıkları hafta sonu kaçamakları karmaşık bir hâl alır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5ygPxb8wPZsomrqTAgoh9mB3oQB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/xJATsbyFLf4LMtJBOco08RNxqPE.jpg",
-    "rating": 6.539,
-    "popularity": 7,
-    "genres": [
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "light"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "253376",
-    "title": "Kız Arkadaş",
-    "description": "Laura; parlak kariyeri, sevgi dolu eşi, değerli oğlu Daniel'la her şeye sahiptir. Ancak Daniel, her şeyi değiştiren kız arkadaşı Cherry'yi eve getirince Laura'nın hayatı altüst olur. Gergin tanışmanın ardından Laura, Cherry'nin bir şeyler sakladığına emindir. Cherry manipülatif bir statü avcısı mıdır, yoksa Laura mı paranoyaktır? Gerçeği belirleyen, bakış açısıdır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6HcK3WZLZ1as6nVHLe4EQLf6zTb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
-    "rating": 7.2,
-    "popularity": 7,
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "mind-blowing",
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "114500",
-    "title": "Win or Lose",
-    "description": "Win or Lose dizisi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rnVVkTU8noAZshs1sHdkxdGcVIP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/l3RyxkgMEm6E4D1uZDwQfi0P9TK.jpg",
-    "rating": 8,
-    "popularity": 7,
-    "genres": [
-      "animation",
-      "comedy",
-      "drama",
-      "family"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "easy-watch",
-      "light",
-      "emotional"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "250988",
-    "title": "House of Guinness",
-    "description": "Dublin, 1868. Guinness ailesinin reisi vefat ettiğinde bira fabrikasının kaderi, her biri karanlık sırlar saklayan dört çocuğunun ellerine kalır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/1ELIdCCzB1afeO0KQh2lvUaOxjd.jpg",
-    "rating": 7.5,
-    "popularity": 7,
-    "genres": [
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "288055",
-    "title": "Star Wars: Tales of the Underworld",
-    "description": "İki kanun kaçağı, kaderlerini çizerken galaksinin tehlikeli yeraltı dünyasında yol alır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qv1hagzp08cDJF6C04LyJVhcI1x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/hMMWtinDnIjvUeiWKmvpkmnxGnK.jpg",
-    "rating": 7.147,
-    "popularity": 7,
-    "genres": [
-      "animation",
-      "sci-fi",
-      "crime",
-      "action"
-    ],
-    "platforms": [
-      "disney"
-    ],
-    "tags": [
-      "easy-watch",
-      "sci-fi",
-      "dark",
-      "action"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "248982",
-    "title": "Cassandra",
-    "description": "Eski bir akıllı eve taşınan bir aile, evin onları burada tutmak için her şeyi yapmaya hazır olan bir sanal asistanın kontrolünde olduğunu keşfeder.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/4GAmr9BWRfVjZ3GAntm7yjVf82i.jpg",
-    "rating": 7.1,
-    "popularity": 6,
-    "genres": [
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "262878",
-    "title": "Sırlarımız",
-    "description": "Yaşadıkları zengin banliyöde bir komşusunun au pair'i kayıplara karışınca sorularına cevap arayan Cecilie, mükemmel görünen dünyasını yerle bir eden sırları ortaya çıkarır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6gIFnjg7xdjloVmGpPygRGYq4zg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/c8bp3lqchYLY7Y14uBXRmCPukUo.jpg",
-    "rating": 6.633,
-    "popularity": 6,
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery",
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "279283",
-    "title": "DNA Dedektifi",
-    "description": "16 yıldır çözülemeyen korkunç bir çifte cinayet, faili meçhul bir davaya dönüşmeden önce katili yakalamaya çalışan bir dedektif bir soy bilimciyle iş birliği yapar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qNe4KKt5rj21wILGfGBtS7L0LeV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/mBXz4HWt205dH2rHAkvG1eDZzqo.jpg",
-    "rating": 7,
-    "popularity": 5,
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "241883",
-    "title": "Bahçıvan",
-    "description": "Annesi, Elmer'in duygusuzluğunu kullanarak onu bir tetikçiye dönüştürdü. Ama Elmer yeni kurbanına âşık olunca sakin, yerel bahçıvan kimlikleri tehlikeye girer.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cEAn5NQuBDygU1B57D0dbPwwDDR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
-    "rating": 6.738,
-    "popularity": 5,
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery",
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "275388",
-    "title": "Cam Kubbe",
-    "description": "Arkadaşının kızı kaybolunca arama çalışmalarına katılan kriminolog Lejla, çocukken başına gelen ve hiç unutamadığı kaçırılma olayının yarattığı travmayla yüzleşmek zorunda kalır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8BASUGDpNoCUTNvX754JpuEKhpv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/w8NsengOrWLapYBVutr52gwWMio.jpg",
-    "rating": 7.007,
-    "popularity": 4,
-    "genres": [
-      "drama",
-      "crime",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "dark",
-      "mystery"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "212333",
-    "title": "Mussolini: Yüzyılın Oğlu",
-    "description": "Benito Mussolini'nin yükselişi ve İtalya'da faşizmin doğuşu; bir ülkenin diktatörlüğe teslim oluşunu ve küllerinden defalarca yeniden doğan bir adamın amansız yükselişini anlatıyor.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/m3ntFWL8nT1MOTji7HsqvHonjeI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/hmIofCaQPXQjYiKlQNkQH9oNoaA.jpg",
-    "rating": 8.149,
-    "popularity": 4,
-    "genres": [
-      "drama",
-      "war"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "dark"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "224021",
-    "title": "Åre Cinayetleri",
-    "description": "Stockholm'de kurum içi soruşturmadan geçen bir dedektif, rahatlamak için bir kayak merkezine gider. Ancak bir genç kızın kaybolmasıyla, işe geri dönmek zorunda kalır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9o1D8WVdkjxivK67hE6DjL02JSy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/mQqJNXIBDCWXgTmwvJV7kEgnDpW.jpg",
-    "rating": 6.683,
-    "popularity": 3,
-    "genres": [
-      "drama",
-      "crime",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery",
-      "thriller"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "290321",
-    "title": "Mentiras, la serie",
-    "description": "Mentiras, la serie dizisi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jzfyq5YqzpGG83ZBcODK5BwvcGM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/romZHSReJrR0sHJ55PBWl1jb81s.jpg",
-    "rating": 8.211,
-    "popularity": 3,
-    "genres": [
-      "comedy",
-      "soap"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "light"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "302696",
-    "title": "KPop Demon Hunters Lyric Videos",
-    "description": "KPop Demon Hunters Lyric Videos dizisi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dTqYRhRzKayrCcDVqIS3bXOiRR5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/qyj4vs8223qaaWRoa5V37NMKTYt.jpg",
-    "rating": 9.184,
-    "popularity": 1,
-    "genres": [
-      "animation"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "easy-watch"
-    ],
-    "duration": "medium",
-    "year": 2025
-  },
-  {
-    "id": "40417",
-    "title": "Leyla ile Mecnun",
-    "description": "Aynı gün, aynı hastanede dünyaya gelen iki bebek, yatak sayısının azlığından dolayı yan yana yatırılırlar. Ailelerinin \"doğar doğmaz birbirlerini buldular\" sözü üzerine beşik kertmesi yapılan bebekler, isimlerini de efsane aşıklar Leylâ ile Mecnun'dan alırlar.\n\nAradan 25 yıl geçer. Bir sabah ailesi Mecnun'a durumu anlatır ve Leyla'yı istemeye giderler. Mecnun başta bu durumdan rahatsızlık duysa da Leyla'yı görür görmez aşık olur. Onu etkilemek için ne yapacağını bilemeyen Mecnun, bir gece rüyasında ak sakallı dedeyi görür. Ak sakallı dedenin rüyalarından çıkıp Mecnun ile beraber yaşamaya başlamasıyla da işler karışır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3jPLJJXbFabb29mOxZOK0xctcy6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/aEQEIXDmjd9otezUu64VFmpO51K.jpg",
-    "rating": 8.08,
-    "popularity": 21,
-    "genres": [
-      "family",
-      "comedy",
-      "drama",
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "easy-watch",
-      "light",
-      "emotional",
-      "sci-fi"
-    ],
-    "duration": "long",
-    "year": 2011
-  },
-  {
-    "id": "65555",
-    "title": "Kara Sevda",
-    "description": "Kara Sevda, 14 Ekim 2015'te Star TV'de yayınlanmaya başlayan yeni dizidir. Dizinin başrollerinde Burak Özçivit, Neslihan Atagül ve Kaan Urgancıoğlu yer almaktadır. Yapımcılığını Kerem Çatay'ın üstlendiği dizinin yönetmen koltuğunda Hilal Saral bulunmaktadır. Senarist kadrosunda Anıl Eke, Özlem Yılmaz ve Burcu Görgün'ün bulunduğu dizinin oyuncu kadrosunda ayrıca; Kürşat Alnıaçık,Burak Sergen Zeyno Eracar, Orhan Güner, Neşe Baykent, Barış Alpaykut, Melisa Aslı Pamuk yer alıyor. Dizinin çekimleri 1. bölümdeki maden kazası(Zonguldak) hariç İstanbul ilinde gerçekleşmektedir. Dizide madende bir facia yaşandıktan sonra hayatı değişen genç bir maden mühendisinin hikayesi anlatılmaktadır. Genç madenciyi Burak Özçivit canlandırıyor.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wCo8QUccl6hBkCzOrm4AaLgc87J.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/n0lQ50CfQhB8TfB9hzpeBrJBZ6L.jpg",
-    "rating": 7.8,
-    "popularity": 20,
-    "genres": [
-      "drama",
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "light"
-    ],
-    "duration": "long",
-    "year": 2015
-  },
-  {
-    "id": "70798",
-    "title": "İstanbullu Gelin",
-    "description": "Annesiz babasız büyümüş, genç yaşta hayatın yükünü sırtlamış, çok güzel ve gururlu bir genç kız olan Süreyya’nın, karizmatik iş adamı Faruk’a aşık olup Bursa’ya gelin gitmesiyle başlayan hikayesi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/alVrRNxDGOlULYdXgnOpPrVP7KL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/raosbKSonz7ZkuZsfxHG5LgH0Wl.jpg",
-    "rating": 7.4,
-    "popularity": 19,
-    "genres": [
-      "drama",
-      "family",
-      "comedy"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "easy-watch",
-      "light"
-    ],
-    "duration": "long",
-    "year": 2017
-  },
-  {
-    "id": "82328",
-    "title": "Bir Zamanlar Çukurova",
-    "description": "Dizide aşkı için öldürmeyi göze almış Yılmaz ile sevgilisi yaşasın diye kendini istemediği bir adamla yaptığı evliliğe hapseden Züleyha'nın hikayesi anlatılıyor. Ama bu hikayede sadece ayrı düşen iki sevgili yok! Ailesinin görkemli geçmişini ve biricik oğlunu korumak için kanatlarını açmış bir Hünkâr'ın savaşı da var; aşık olduğu kadını tutsak etmeyi göze alan Demir de! Ve elbette sınırsız aşkların coğrafyasında, geçmişten bugüne uzanan hesaplaşmalar, paylaşılamayan topraklar da! Aşkın sınırsız, kavganın ölümüne, umudun inadına yaşandığı Çukurova'da ihtiras ve zorbalık sınavlarından geçen bir aşkın hikayesi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ayRjBKyBXzKGHajgVGsiMiK5THy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/8vXYq2l38DsPzGD8lpokinZiPuV.jpg",
-    "rating": 7.733,
-    "popularity": 14,
-    "genres": [
-      "family",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "easy-watch",
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2018
-  },
-  {
-    "id": "87623",
-    "title": "Hercai",
-    "description": "Midyat'ın en güçlü ailelerinden Şadoğullarının torunlarından biri olan Reyyan ile yıllar önce öldürülen anne babasının intikamını almak isteyen Miran'ın imkansız aşk hikayesi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xDHKKIQrwL3vP3BKov5TeBTzvRD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/pcZUSUH31odGlq41XktxLVmjNSm.jpg",
-    "rating": 7.753,
-    "popularity": 13,
-    "genres": [
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2019
-  },
-  {
-    "id": "66017",
-    "title": "Diriliş: Ertuğrul",
-    "description": "“O; Güneşi bayrak, göğü çadır eyleyip kısraklarını uçsuz bucaksız ovalara sürdü. Yağız yeri titretip, mavi göğü deldi. Pusatlarını yar eyleyip, ordularını gür kıldı. Daha çok denize, daha çok toprağa ilahi muştuyu taşıdı. Dünyanın iki hükümdara dar geldiğine inandı. Ve dünyayı bir hükümdara yar kıldı. Süleyman Şah oğlu Ertuğrul ümitlerin tükendiği bir çağda dirilişin adı oldu. ”Diriliş “Ertuğrul” , dünyanın kaderini belirleyen adamın hikayesi.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/a6GZGeyWwwtfxeUqPKIYkRMOAUP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/xTwCPMFshsjtA0firQMe3GapQz9.jpg",
-    "rating": 7.9,
-    "popularity": 13,
-    "genres": [
-      "war",
-      "action",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "dark",
-      "action",
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2014
-  },
-  {
-    "id": "77532",
-    "title": "Kadın",
-    "description": "Kocası Sarp’ın ölümünden sonra Bahar’ı hayata bağlayan iki şey vardır: Çocukları Nisan (7) ve Doruk (4). Onlarla elele verip hayatı bir oyuna, fakirliği eğlenceye, yokluğu neşeye çevirmeyi başarır. İnsanın yüzü güldüğünde kalbinin de onunla birlikte gülümseyeceğine inanır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nGW4STJLVazkq41RcFa7kGe12qI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/87jtXEQrDGgRTbbYiDvqYWcOFWp.jpg",
-    "rating": 7.578,
-    "popularity": 11,
-    "genres": [
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2017
-  },
-  {
-    "id": "9687",
-    "title": "Homeros'dan Odyssey",
-    "description": "Film, Yunan kralı Odysseus'un dramatik yolculuğunu konu alıyor. Odysseus, Truva Savaşı'na katılmak için yola çıkar ve karısı Penelope ile oğlu Telemakhos'u İthaka'da bırakır. On yıl süren çetin savaş, Odysseus'un dahiyane planı sayesinde kazanılır. Ancak zaferin ardından yaptığı büyük bir hata, onun kaderini sonsuza dek değiştirir. Gözünü zafer hırsı bürüyen Odysseus, tanrıları küçümseyerek Truva'yı kendi gücüyle fethettiğini iddia eder. Bu küstahlığı karşısında denizler tanrısı Poseidon onu lanetler ve Odysseus ile mürettebatını yıllarca denizlerde sürüklenmeye mahkûm eder. İthaka'ya ve en önemlisi ailesine kavuşma umudu giderek tükenirken, bu sırada Penelope, Odysseus'un öldüğünü sanan ve onunla evlenmek isteyen taliplerden korunmaya çalışmaktadır. Odysseus nihayet sarayına döndüğünde kimse onun gerçekten Odysseus olduğuna inanmaz. Bunun üzerine, yalnızca Odysseus’un kullanabileceği efsanevi yay ile bir turnuva düzenlenir…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wCiQ7XySqnz9X1REtDNZRGLfhpe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/jmCegdxo0woQ3GpI3IuR7XxSMWN.jpg",
-    "rating": 7.184,
-    "popularity": 10,
-    "genres": [
-      "action",
-      "drama",
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "action",
-      "emotional",
-      "sci-fi"
-    ],
-    "duration": "long",
-    "year": 1997
-  },
-  {
-    "id": "60930",
-    "title": "Muhteşem Yüzyıl: Kösem",
-    "description": "Babasının ani ölümüyle tahta çıkan Sultan Ahmed kendini başka bir dünyada bulur; savaşlar, entrikalar, devlet yönetimi... Ama bir gün bir tablo görmesiyle hayatına bir kadın girer: Kösem Sultan. İlk başlarda tahtın ağırlığında ezilse de yavaş yavaş işlerin farkına varacaktır. Kösem Sultan ise saraya gelmesiyle birlikte artık kendisine bekleyen hayatın ilk adımını atacaktır. O da işlerin farkına vardıktan sonra kendini saray entrikalarında ve taht kavgalarında bulacaktır. Eşinin ani ölümünden sonra zorlu bir hayat onu beklemektedir. İki çocuğunun ve torununun saltanatlarını görecek, Osmanlı İmparatorluğu'nun en kudretli valide sultanı olacak, deyim yerindeyse devleti o idare edecektir. Ne yazık ki en sonunda da kendisi saray entrikalarına kurban gidecektir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5ocFDZmhKI0ypSUjUVWON1jupQV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/vbxUtuW59PUut2yfV4KIdq09Ss1.jpg",
-    "rating": 7.7,
-    "popularity": 8,
-    "genres": [
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2015
-  },
-  {
-    "id": "76530",
-    "title": "Siyah Beyaz Aşk",
-    "description": "Ferhat, peşine düştüğü adamı yaşatmak için bir doktora ihtiyaç duyar. Kendini insanları iyileştirmeye adamış olan doktor Aslı ile yolları bu sebeple kesişir.  Hayatta asla yan yana gelemeyecek, siyahla beyaz kadar zıt iki insan.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eO6C0NFLDpdnKnltEhKvkvUjIpk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/kiJQB753D1wvaX36bFHBHVdBMlP.jpg",
-    "rating": 7.9,
-    "popularity": 6,
-    "genres": [
-      "drama",
-      "action"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "dark"
-    ],
-    "duration": "long",
-    "year": 2017
-  },
-  {
-    "id": "79026",
-    "title": "Hakan: Muhafız",
-    "description": "Günümüz İstanbulu'nda yaşayan ve kadim bir gizli birlikle olan bağını keşfeden genç bir adam, şehri ölümsüz bir düşmandan kurtarmak için maceraya atılır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mj6z8wMzcYPt9pwJqHxy0Avlnum.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/scrqQwSarTbq80oUdZrj7cbpscv.jpg",
-    "rating": 7.199,
-    "popularity": 6,
-    "genres": [
-      "action",
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "action",
-      "mystery"
-    ],
-    "duration": "medium",
-    "year": 2018
-  },
-  {
-    "id": "77994",
-    "title": "Şahsiyet",
-    "description": "Emekli bir adliye memuru olan Agâh Beyoğlu, İstanbul’un en kalabalık ve hareketli semti Beyoğlu’nda yalnız ve münzevi bir yaşam sürdürmektedir. Kızı yurtdışında yaşamakta, eşi ise yıllar önce vefat etmiştir. Agâh’ın bu tekdüze yaşantısı, kendisine konan Alzheimer Başlangıcı teşhisiyle altüst olur. Hastalığından ötürü er geç bütün anılarını unutacaktır. Bu gerçek karşısında başta bocalasa da Agâh, unutmanın bir fırsat olduğunu fark eder. Yıllardır planladığı ancak sürekli ertelediği bir cinayeti işlemek için bir fırsat! Nasıl olsa işleyeceği bu suçu gelecekte hatırlamayacak, hatırlamayacağı için de vicdan azabı çekmeyecektir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nC68Pf7jnddVcZsPuzAnYUHJqff.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/3MfziPWYvHaYwTdi5jxkEscjHVw.jpg",
-    "rating": 8.079,
-    "popularity": 6,
-    "genres": [
-      "crime",
-      "drama",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "dark",
-      "emotional",
-      "mystery"
-    ],
-    "duration": "long",
-    "year": 2018
-  },
-  {
-    "id": "77026",
-    "title": "Sen Anlat Karadeniz",
-    "description": "Geçmişte para karşılığı satıldığı adamın zulmünden kaçıp çocuğuyla birlikte Karadeniz'e sığınan Nefes'le, onu koruduğu için ailesinin büyük tepkisiyle karşılaşan Tahir'in imkansız aşkı...",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1swrKrfaUbXvT9JqdI4XkXQUoK1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/fUO8slvybhdvJC59hyxchh6M90V.jpg",
-    "rating": 8.05,
-    "popularity": 6,
-    "genres": [
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2018
-  },
-  {
-    "id": "100897",
-    "title": "Aşk 101",
-    "description": "Öğretmenlerinin bir basketbol koçuna âşık olmasını sağlamaya çalışan dört isyankâr ve bir örnek öğrenci, birlikte arkadaşlığı, aşkı ve kendileri olma cesaretini öğrenir.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/l6pLzAgUU2QpJ6KlsReqSqwWnfa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/uxxr14xvFgpGDdTAoLJJFsAZYSB.jpg",
-    "rating": 7.764,
-    "popularity": 5,
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "medium",
-    "year": 2020
-  },
-  {
-    "id": "96348",
-    "title": "Atiye",
-    "description": "Atiye, genç ve güzel bir ressamdır. Ailesi ve sevgilisi Ozan’la mutlu bir hayatı olan Atiye, dünyanın en eski tapınaklarından olan Göbeklitepe’ye bir ziyaret gerçekleştirir. Atiye’nin bölgede yaptığı gezi sırdasında, Erhan adındaki bir arkeolog, Atiye ile Göbeklitepe arasında mistik bir bağlantı olduğuna dair bir sembol keşfeder. Bu olayın peşini bırakmayan ve irdelemeye başlayan Atiye, geçmişin izlerini de bulmaya çalışır ve kendisine bambaşka bir yol çizer. Atiye, geçmişi kovaladıkça ve yeni detaylara ulaştıkça, geçmişle geleceği, gerçek ile ruhani olayları birbirinden ayırt edememeye başlar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/23hcx6YvPrmEgQWAA0ZFyXL9jh3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/tOvVG4uigMTTZiZdUeNMd1BA22U.jpg",
-    "rating": 7.346,
-    "popularity": 5,
-    "genres": [
-      "mystery",
-      "drama",
-      "sci-fi"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "mystery",
-      "emotional",
-      "sci-fi"
-    ],
-    "duration": "medium",
-    "year": 2019
-  },
-  {
-    "id": "206180",
-    "title": "Zeytin Ağacı",
-    "description": "Ada, Sevgi ve Leyla'nın “rakı, balık, Ayvalık” olarak başlayan macerası, onları geçmişleriyle barıştırırken kendi yaşamları için yepyeni kararlar almalarını sağlar.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/p2UqCeIEdDqq0MTR8HwGEfZfu6J.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/5nAikDmnio7SuBFg4KIpC3c50UL.jpg",
-    "rating": 7.718,
-    "popularity": 4,
-    "genres": [
-      "drama"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional"
-    ],
-    "duration": "long",
-    "year": 2022
-  },
-  {
-    "id": "112745",
-    "title": "Bir Başkadır",
-    "description": "Dizi, birbirlerinden oldukça farklı karakterde olan ve bambaşka hayatlar yaşayan bir grup insanın yollarının kesişmesiyle değişen yaşamlarını konu ediyor. Bu karakterler ya yeni bir yola yürümek ya da karmaşık bir geçmişle hesaplaşmak zorunda kalacaklardır.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9MzukREEyaCqW197buBrJr2LcTI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
-    "rating": 7.728,
-    "popularity": 4,
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "emotional",
-      "mystery"
-    ],
-    "duration": "long",
-    "year": 2020
-  },
-  {
-    "id": "75365",
-    "title": "Börü",
-    "description": "2014 baharında Türkiye. Sınırda düşmanların çoğaldığı, içeride tehlikeler çemberinin giderek daraldığı bir dönem.  Türkiye Cumhuriyeti yakın tarihinin en büyük tehditleriyle karşı karşıya. BÖRÜ, vatan aşkı ile tutuşmuş yalnız kahramanların destanını anlatıyor. Onlar son kale.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jSJy27yMybtzou7eiUZTa03zWFI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/pxlRMd57lNIvMvXF5UVxgrgS6wO.jpg",
-    "rating": 7.073,
-    "popularity": 4,
-    "genres": [
-      "action",
-      "war"
-    ],
-    "platforms": [
-      "netflix"
-    ],
-    "tags": [
-      "action",
-      "dark"
-    ],
-    "duration": "long",
-    "year": 2018
   }
 ]
