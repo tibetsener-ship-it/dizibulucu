@@ -9,7 +9,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 9.5,
+    "rating": 9.3,
     "popularity": 97,
     "platforms": [
       "netflix"
@@ -29,7 +29,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.6,
+    "rating": 9.9,
     "popularity": 96,
     "platforms": [
       "netflix"
@@ -49,7 +49,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 9,
+    "rating": 9.7,
     "popularity": 85,
     "platforms": [
       "disney"
@@ -69,10 +69,10 @@
     "tags": [
       "dark"
     ],
-    "rating": 8.7,
+    "rating": 9.6,
     "popularity": 89,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Bir çocuğun kaybolması, dört aileyi hummalı bir cevap arayışına iter. Bu arayışları, üç nesli kapsayan akıl almaz bir gizemi ortaya çıkarmalarına neden olur.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/7yQyDCqSazrYTnmxdQLAZ8YDH87.jpg",
@@ -89,7 +89,7 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 8.8,
+    "rating": 9.9,
     "popularity": 91,
     "platforms": [
       "netflix"
@@ -110,7 +110,7 @@
     "tags": [
       "dark"
     ],
-    "rating": 9.2,
+    "rating": 9,
     "popularity": 97,
     "platforms": [
       "amazon"
@@ -132,7 +132,7 @@
       "thriller",
       "sci-fi"
     ],
-    "rating": 8.8,
+    "rating": 8.6,
     "popularity": 99,
     "platforms": [
       "netflix"
@@ -152,7 +152,7 @@
     "tags": [
       "light"
     ],
-    "rating": 9.2,
+    "rating": 8.8,
     "popularity": 95,
     "platforms": [
       "hbo"
@@ -172,10 +172,10 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 9,
+    "rating": 8.5,
     "popularity": 91,
     "platforms": [
-      "netflix"
+      "disney"
     ],
     "description": "Breaking Bad'in yan hikayesi olan dizide, ufak çaplı avukat Jimmy McGill’in ahlak yoksunu \"hukuk adamı\" Saul Goodman’a dönüşmesini izliyoruz.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
@@ -192,7 +192,7 @@
     "tags": [
       "light"
     ],
-    "rating": 9.3,
+    "rating": 8.7,
     "popularity": 86,
     "platforms": [
       "netflix"
@@ -212,7 +212,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 8.8,
+    "rating": 9.1,
     "popularity": 97,
     "platforms": [
       "amazon"
@@ -232,10 +232,10 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 8.7,
+    "rating": 9.2,
     "popularity": 84,
     "platforms": [
-      "netflix"
+      "disney"
     ],
     "description": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
@@ -254,7 +254,7 @@
       "emotional",
       "light"
     ],
-    "rating": 8.7,
+    "rating": 9.7,
     "popularity": 100,
     "platforms": [
       "netflix"
@@ -274,7 +274,7 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 8.7,
+    "rating": 8.5,
     "popularity": 95,
     "platforms": [
       "netflix"
@@ -294,7 +294,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 8.7,
+    "rating": 9.2,
     "popularity": 98,
     "platforms": [
       "disney"
@@ -314,10 +314,10 @@
     "tags": [
       "thriller"
     ],
-    "rating": 8.6,
+    "rating": 9.4,
     "popularity": 92,
     "platforms": [
-      "netflix"
+      "hbo"
     ],
     "description": "II. Dünya Savaşı’nın yarattığı yıkımın ardından İngiltere siyasi karışıklık içindedir ve bu zorlu dönemde tahta bir kadın geçmektedir. II. Elizabeth'in tahta geçmesi ile yeni bir dönem başlayacaktır. Kraliçe II. Elizabeth'in tahttaki ilk yıllarının perde arkasının konu edildiği dizide, siyasi rekabetler, aşk ve 20. Yüzyılın ikinci yarısına şekil veren olaylar anlatılıyor.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg",
@@ -334,7 +334,7 @@
     "tags": [
       "light"
     ],
-    "rating": 9.3,
+    "rating": 8.9,
     "popularity": 88,
     "platforms": [
       "disney"
@@ -354,10 +354,10 @@
     "tags": [
       "dark"
     ],
-    "rating": 8.6,
+    "rating": 10,
     "popularity": 98,
     "platforms": [
-      "netflix"
+      "hbo"
     ],
     "description": "FBI'ın Elit Seri Suçlar Biriminden bir ajan, kötü şöhretli seri katilleri ve tecavüzcüleri araştırırken profil çıkarma teknikleri geliştirir.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg",
@@ -375,7 +375,7 @@
       "mind-blowing",
       "dark"
     ],
-    "rating": 8.7,
+    "rating": 8.8,
     "popularity": 86,
     "platforms": [
       "netflix"
@@ -395,7 +395,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.6,
+    "rating": 9.8,
     "popularity": 94,
     "platforms": [
       "netflix"
@@ -416,10 +416,10 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.6,
+    "rating": 8.9,
     "popularity": 87,
     "platforms": [
-      "disney"
+      "hbo"
     ],
     "description": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
@@ -436,7 +436,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.6,
+    "rating": 9.6,
     "popularity": 86,
     "platforms": [
       "netflix"
@@ -458,7 +458,7 @@
       "sci-fi",
       "light"
     ],
-    "rating": 8.6,
+    "rating": 9.9,
     "popularity": 89,
     "platforms": [
       "disney"
@@ -478,7 +478,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.8,
+    "rating": 9.8,
     "popularity": 96,
     "platforms": [
       "hbo"
@@ -498,7 +498,7 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 8.3,
+    "rating": 9.8,
     "popularity": 94,
     "platforms": [
       "hbo"
@@ -518,10 +518,10 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.8,
+    "rating": 9.7,
     "popularity": 100,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "O, hem bir at hem de 90'ların favori komedi dizi yıldızı. Bu da 20 yıl sonraki hali. Huysuzun teki olsa da pırlanta gibi. Ama hakiki pırlantadan çok, ucuz bir taklidi.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
@@ -538,10 +538,10 @@
     "tags": [
       "dark"
     ],
-    "rating": 8.6,
+    "rating": 9.9,
     "popularity": 99,
     "platforms": [
-      "disney"
+      "hbo"
     ],
     "description": "İki kuzen, kendilerinin ve ailelerinin hayatlarını iyileştirmek için Atlanta müzik sahnesinde çalışır.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8HZyGMnPLVVb00rmrh6A2SbK9NX.jpg",
@@ -558,7 +558,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 8.4,
+    "rating": 8.6,
     "popularity": 92,
     "platforms": [
       "amazon"
@@ -578,7 +578,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.3,
+    "rating": 9.6,
     "popularity": 86,
     "platforms": [
       "disney"
@@ -599,7 +599,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 8.5,
+    "rating": 9.8,
     "popularity": 81,
     "platforms": [
       "netflix"
@@ -620,7 +620,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.7,
+    "rating": 9.4,
     "popularity": 99,
     "platforms": [
       "netflix"
@@ -640,7 +640,7 @@
     "tags": [
       "dark"
     ],
-    "rating": 8.7,
+    "rating": 9.4,
     "popularity": 95,
     "platforms": [
       "disney"
@@ -660,7 +660,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.7,
+    "rating": 9.3,
     "popularity": 100,
     "platforms": [
       "netflix"
@@ -682,7 +682,7 @@
       "light",
       "thriller"
     ],
-    "rating": 9.4,
+    "rating": 9.9,
     "popularity": 98,
     "platforms": [
       "hbo"
@@ -702,10 +702,10 @@
     "tags": [
       "dark"
     ],
-    "rating": 8.6,
+    "rating": 8.8,
     "popularity": 89,
     "platforms": [
-      "netflix"
+      "hbo"
     ],
     "description": "O, 'ince ruhlu' bir katil. O, Miami'de yaşanan cinayetleri araştıran bir 'kan' inceleme uzmanı. O, dünyaya adalet sağlamak için öldürüyor. Onun adı Dexter ve düzenin adaletini kişisel bakışa göre sağlamak hayatta kalma amacı.\n\nHem işinin ehli bir seri katil hem de sosyal kişilikli bir adam portresi çizen Dexter Morgan, 2006 yılından itibaren kendi ahlak anlayışına göre kötüleri yer yüzünden silmeye devam etti. Yayınlandığı yıldan itibaren onlarca televizyon ödülüne aday gösterilen, Emmy ve Altın Küre ödüllü Dexter, televizyon tarihinin de en sıra dışı karakterlerinden birini ekranlara taşıdı.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
@@ -722,7 +722,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.5,
+    "rating": 9.3,
     "popularity": 93,
     "platforms": [
       "disney"
@@ -745,7 +745,7 @@
     "rating": 8.6,
     "popularity": 90,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Beyaz Saray'ın ihanetine uğrayan Kongre Üyesi Frank Underwood gücü ele geçirmek için mücadeleye başlar. Silahları şantaj, baştan çıkarma ve hırstır.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/rXaHpG5E8y68pqfG2RRwmjdebo1.jpg",
@@ -762,10 +762,10 @@
     "tags": [
       "mind-blowing"
     ],
-    "rating": 8.4,
+    "rating": 8.7,
     "popularity": 95,
     "platforms": [
-      "disney"
+      "hbo"
     ],
     "description": "Soğuk Savaş döneminde 1980'li yılların başlarında, Ronald Reagan'ın ABD başkanlık koltuğuna oturmasının hemen ardındaki zaman diliminde geçecek The Americans; Washington DC'de bir banliyöde çevreye iki Amerikalı görünümü veren, ebeveynlerinin gerçek kimliklerinden habersiz durumdaki iki çocuğa sahip ancak gerçekte iki KGB ajanı olan evli bir çift üzerine odaklanıyor.\n\nAnlaşmalı evliliklerine rağmen, Soğuk Savaş dönemi daha yoğun ve hararetli bir hal aldıkça ikilinin birbirlerine olan bağlılıkları ve duyguları her geçen gün daha gerçekçi bir hal almaya başlayacaktır.\n\nAltın Küre ödülü (1999 en iyi kadın oyuncu drama TV, Felicity) sahibi Keri Russell, Elizabeth Jennings olarak dizinin ana kadın karakterini canlandırırken, Elizabeth'in kocası Phillip Jennings karakterini Matthew Rhys (Brothers &amp; Sisters) canlandıracak. Noah Emmerich (White Collar, The Walking Dead) ise aynı mahalleye taşınan, casuslarımız için bir tehdit olarak olarak beliren ve karşı istihbarat için çalışan FBI ajanı Stan rolüyle dizinin oyuncu kadrosunda yer alan bir diğer isim olacak.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
@@ -784,7 +784,7 @@
       "emotional",
       "light"
     ],
-    "rating": 8.4,
+    "rating": 9.8,
     "popularity": 88,
     "platforms": [
       "disney"
@@ -806,7 +806,7 @@
       "emotional",
       "light"
     ],
-    "rating": 8.3,
+    "rating": 9.8,
     "popularity": 82,
     "platforms": [
       "disney"
@@ -826,7 +826,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.6,
+    "rating": 9.6,
     "popularity": 84,
     "platforms": [
       "hbo"
@@ -848,10 +848,10 @@
       "emotional",
       "dark"
     ],
-    "rating": 8.9,
+    "rating": 9.4,
     "popularity": 81,
     "platforms": [
-      "netflix"
+      "disney"
     ],
     "description": "Seinfeld, dokuz sezon boyunca yayınlanan toplam 169 bölümle televizyon tarihinin en çarpıcı devrimlerinden birini gerçekleştirdi. Yayınlandığı ülkelerde televizyonların en sevilen komedisi olmayı başaran Seinfeld, aynı kentte yaşayan dört arkadaşın gündelik hayatından kesitler sunuyor ve son derece basit fikirlerden ilginç açılımlara uzanıyor.\n\nAna karakter Jerry Seinfeld kadar yan karakterler de dikkat çekici. Hemen her konuda kararsız biri olan Elaine, bitmeyen kompleksleriyle herkesi bıktıran George Costanza ve tuhaf karizması, parlak fikirleriyle Cosmo Kramer. Kumsalda uyuyor gibi hissedebilmek için kumla doldurulmuş yatakta uyumak fikri Cosmo Kramer’in dehasına sadece küçük bir örnek.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
@@ -868,7 +868,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.9,
+    "rating": 9.3,
     "popularity": 88,
     "platforms": [
       "amazon"
@@ -890,7 +890,7 @@
       "emotional",
       "dark"
     ],
-    "rating": 8.6,
+    "rating": 9.6,
     "popularity": 97,
     "platforms": [
       "hbo"
@@ -910,7 +910,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.8,
+    "rating": 8.5,
     "popularity": 88,
     "platforms": [
       "amazon"
@@ -932,7 +932,7 @@
       "thriller",
       "sci-fi"
     ],
-    "rating": 8.8,
+    "rating": 9.6,
     "popularity": 86,
     "platforms": [
       "disney"
@@ -953,7 +953,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.5,
+    "rating": 9.6,
     "popularity": 86,
     "platforms": [
       "netflix"
@@ -974,7 +974,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.5,
+    "rating": 8.9,
     "popularity": 94,
     "platforms": [
       "netflix"
@@ -994,10 +994,10 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 8.4,
+    "rating": 10,
     "popularity": 85,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Jake, işinde iyi, yetenekli ve ekibi içinde yakalama oranı en iyi polistir. Ama öteki yandan ciddiyetten yoksun ve sıkı çalışması gerekmemiş biri olarak oldukça da rahat biridir. Ekibe yeni gelen patron, emrindekilerin “rozetin hakkını vermesi” gerektiğini düşünen biri olarak işe koyulur ve Jake’ten başlar. Bu da komik pek çok olayın yaşanmasına sebebiyet verir. Brooklyn 99, New York’lu bir grup dedektifin ekip içi ve suçlularla yaşadığı komik olaylar üstüne kurulu olacak.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
@@ -1014,7 +1014,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.5,
+    "rating": 9,
     "popularity": 96,
     "platforms": [
       "netflix"
@@ -1034,10 +1034,10 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.2,
+    "rating": 9.9,
     "popularity": 22,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Dizi, erektil disfonksiyon ürünleri taşıyan bir traktörün çarpması sonucu ölen ve öbür tarafta yeniden canlandırılan Eleanor Shellstrop adlı sıradan bir kadını merkezine alır. Ahiretteki yaşantısında kendisinin çok da iyi bir insan olmadığının farkına varır. Ahiret hocası Michael'ın yardımıyla içindeki iyi insanı bulmaya ve yeniden sıradan hayatına dönmeye çalışır.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
@@ -1055,10 +1055,10 @@
       "light",
       "emotional"
     ],
-    "rating": 7.8,
+    "rating": 8.9,
     "popularity": 24,
     "platforms": [
-      "disney"
+      "netflix"
     ],
     "description": "Bir anda şarkı söylemeye başlaması ile ünlü sıradışı öğretmen Jess erkek arkadaşını başka bir kadınla yakalar ve kendine kalacak yer aramaya başlar... Daha önce hiç tanımadığı üç erkeğin kaldığı bir tavan arasında yaşamaya başlar. Nick genellikle yalnız kalmak isteyen hukuk fakültesinden terk bir bezgindir. Schmidt kendisini kadınlara bir armağan olarak gören bir işadamıdır. Winston ise ne yapacağını kendisi de bilmeyen fakat neye katılsa onu kazanma saplantılı eski bir atlettir. Bu tuhaf grup sizce bu yeni kıza alışabilecek midir?",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
@@ -1075,10 +1075,10 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 8.3,
+    "rating": 9.8,
     "popularity": 6,
     "platforms": [
-      "disney"
+      "netflix"
     ],
     "description": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
@@ -1095,10 +1095,10 @@
     "tags": [
       "light"
     ],
-    "rating": 8.5,
+    "rating": 7.2,
     "popularity": 83,
     "platforms": [
-      "disney"
+      "netflix"
     ],
     "description": "İlk ailemizin reisini \"Evli ve Çocuklu\" dizisinde meşhur Al Bundy karakterini oynayan Ed O'Neill, Jay Pritchett karakteriyle canlandırıyor. Jay kendinden çok daha genç bir eşe sahiptir. Gloria adlı genç eşinin bir de Manny adlı oğlu vardır. Jay, Manny'e bir yandan üvey babalık yapmaya çalışırken diğer yandan da genç eşini başkalarına kaptırmamaya çalışmaktadır. İkinci ailemiz ise Phil ve Claire Dunphy çiftidir. Claire, Jay Pritchett'in öz kızı, Phil ise damadıdır. Phil ve Claire çiftinin Haley, Luke ve Alex adın da 3 çocukları vardır. Aile'nin en büyük derdi yaramaz oğulları Luke ve erkek arkadaş sorunları başlayan kızları Haley ve Alex. Üçüncü ailemiz ise gay bir çiftten oluşuyor, Mitchell ve Cameron. Mitchell, Jay Pritchett'in öz oğlu. Bu çiftimizin Vietnam'dan evlat edindikleri Lilly adlı bir bebekleri bulunuyor.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
@@ -1117,10 +1117,10 @@
       "thriller",
       "emotional"
     ],
-    "rating": 8.4,
+    "rating": 7.5,
     "popularity": 7,
     "platforms": [
-      "disney"
+      "netflix"
     ],
     "description": "J.D. olarak tanınan John Dorian, dizinin ana karakteridir. J.D.nin doktorluk macerasını izlerken \"gerçeküstü\" bir hastane olan Sacred Heart Hospital'ın koridorlarında mizahı da trajediyi de birlikte izleyeceğiz. Chris Turk, genç doktorlarımızdan bir diğeridir. J.D.nin kolejdeki en yakın arkadaşı ve seçkin cerrahi grubunun bir üyesidir. Güzel Elliot Reid'in ise tek kusuru gerçek bir asosyal olmasıdır. Gözleri her zaman bu genç doktorların üzerinde olan Dr. Bob, zaman zaman insanı zorlasa da onlar için endişelenen ve onlara yardımcı olmaya çalışan Dr. Perry Cox ve garip hemşire Carla Espinosa, Scrubs'ın diğer karakterleri arasında. J.D.nin baş düşmanı, hastanenin temizlikçisini de unutmamak lazım.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
@@ -1157,7 +1157,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.3,
+    "rating": 9.1,
     "popularity": 32,
     "platforms": [
       "hbo"
@@ -1177,10 +1177,10 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 8.2,
+    "rating": 7.2,
     "popularity": 6,
     "platforms": [
-      "disney"
+      "netflix"
     ],
     "description": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/uftxEWbn3OSykTy4DX4BrdVeiuv.jpg",
@@ -1219,10 +1219,10 @@
     "tags": [
       "thriller"
     ],
-    "rating": 9,
+    "rating": 9.2,
     "popularity": 10,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Parlak zekalı fakat alkolik bilim adamı Rick, başka dünyalara ve alternatif boyutlara çılgın kaçamaklar yaparken huysuz torunu Morty'i de zorla yanında götürür.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
@@ -1239,7 +1239,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.4,
+    "rating": 9.3,
     "popularity": 94,
     "platforms": [
       "disney"
@@ -1259,10 +1259,10 @@
     "tags": [
       "dark"
     ],
-    "rating": 8.6,
+    "rating": 9.7,
     "popularity": 68,
     "platforms": [
-      "disney"
+      "amazon"
     ],
     "description": "Dizi, Fox Mulder ve Dana Scully adlı iki FBI ajanının maceralarını konu almaktadır. Dizide, ajan Fox Mulder ve Dana Scully FBI'ın Gizli Dosyalar departmanına atanmış iki ajandır. Bu departman çözülemeyen, tuhaf ve paranormal olaylarla ilişkisi bulunan dosyalardan sorumludur. Ajan Fox Mulder, paranormal olaylara ve uzaylı komplosuna \"inanan\" bir bakış açısı sergilerken Ajan Dana Scully ise bilimi rehber alan kuşkucu bir tavırla hareket eder.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
@@ -1280,7 +1280,7 @@
       "light",
       "dark"
     ],
-    "rating": 8.5,
+    "rating": 8.1,
     "popularity": 68,
     "platforms": [
       "hbo"
@@ -1300,7 +1300,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.7,
+    "rating": 7.8,
     "popularity": 14,
     "platforms": [
       "netflix"
@@ -1321,10 +1321,10 @@
     "tags": [
       "dark"
     ],
-    "rating": 8.9,
+    "rating": 7.6,
     "popularity": 29,
     "platforms": [
-      "disney"
+      "hbo"
     ],
     "description": "2500'lü yıllarda Dünya nüfusunun iyice artması ve kaynakların tükenmesi sonucu insanların başka gezegenlere göçmesi başlıyor. Merkez gezegenlere yerleşenler, medeniyeti devam etttiriyor ve Alliance'ı kuruyor. Diğerleri ise çevre gezegenlere ve aylara yerleşerek bağımsızlıklarını ilan ediyor. Alliance bu bağımsızları kendine katmak için savaş başlatıyor. Savaş sonrası Kaptan Malcolm Reynolds, Firefly model bir uzay gemisi kaçırıp kaçakçılık işine giriyor.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
@@ -1343,7 +1343,7 @@
       "dark",
       "thriller"
     ],
-    "rating": 8.5,
+    "rating": 8.3,
     "popularity": 25,
     "platforms": [
       "netflix"
@@ -1363,7 +1363,7 @@
     "tags": [
       "dark"
     ],
-    "rating": 7.9,
+    "rating": 7,
     "popularity": 63,
     "platforms": [
       "netflix"
@@ -1383,7 +1383,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 7.6,
+    "rating": 8,
     "popularity": 47,
     "platforms": [
       "hbo"
@@ -1403,7 +1403,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.3,
+    "rating": 9.4,
     "popularity": 23,
     "platforms": [
       "disney"
@@ -1425,7 +1425,7 @@
       "dark",
       "thriller"
     ],
-    "rating": 8.2,
+    "rating": 8,
     "popularity": 19,
     "platforms": [
       "netflix"
@@ -1445,7 +1445,7 @@
     "tags": [
       "light"
     ],
-    "rating": 7.5,
+    "rating": 8,
     "popularity": 20,
     "platforms": [
       "disney"
@@ -1467,7 +1467,7 @@
       "emotional",
       "light"
     ],
-    "rating": 8,
+    "rating": 9.3,
     "popularity": 24,
     "platforms": [
       "netflix"
@@ -1487,7 +1487,7 @@
     "tags": [
       "sci-fi"
     ],
-    "rating": 7.7,
+    "rating": 9.5,
     "popularity": 16,
     "platforms": [
       "hbo"
@@ -1507,7 +1507,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 7.5,
+    "rating": 6,
     "popularity": 87,
     "platforms": [
       "hbo"
@@ -1527,7 +1527,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 7.6,
+    "rating": 7.2,
     "popularity": 5,
     "platforms": [
       "amazon"
@@ -1549,7 +1549,7 @@
       "emotional",
       "light"
     ],
-    "rating": 8.2,
+    "rating": 9.4,
     "popularity": 8,
     "platforms": [
       "amazon"
@@ -1569,7 +1569,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 8.2,
+    "rating": 8.5,
     "popularity": 8,
     "platforms": [
       "hbo"
@@ -1590,7 +1590,7 @@
       "dark",
       "mystery"
     ],
-    "rating": 8.7,
+    "rating": 6.4,
     "popularity": 22,
     "platforms": [
       "disney"
@@ -1610,10 +1610,10 @@
     "tags": [
       "light"
     ],
-    "rating": 8.2,
+    "rating": 6.7,
     "popularity": 77,
     "platforms": [
-      "disney"
+      "netflix"
     ],
     "description": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
@@ -1630,10 +1630,10 @@
     "tags": [
       "emotional"
     ],
-    "rating": 7.9,
+    "rating": 6.5,
     "popularity": 5,
     "platforms": [
-      "disney"
+      "hbo"
     ],
     "description": "Yorucu bir hayatı arkalarında bırakmak isteyen süper kahramanlar Wanda ve Vision, güçlerini kullanmak zorunda olmadıkları bir hayatı arzular. Bunun için de sıradan bir yaşam sürebilecekleri idealize edilmiş bir banliyöde yaşamaya başlarlar. Artık geçmişte yaşadıkları zorlukları arkalarında bırakıp sonunda istedikleri hayata kavuştuklarını düşünen Wanda ve Vision, çok geçmeden hiçbir şeyin göründüğü gibi olmadığını keşfeder.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
@@ -1810,7 +1810,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 7,
+    "rating": 7.8,
     "popularity": 97,
     "platforms": [
       "amazon"
@@ -1959,7 +1959,7 @@
       "thriller",
       "emotional"
     ],
-    "rating": 7,
+    "rating": 7.4,
     "popularity": 26,
     "platforms": [
       "disney"
@@ -1981,7 +1981,7 @@
       "emotional",
       "sci-fi"
     ],
-    "rating": 6.7,
+    "rating": 7.4,
     "popularity": 75,
     "platforms": [
       "hbo"
@@ -2185,7 +2185,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 6.7,
+    "rating": 8.1,
     "popularity": 98,
     "platforms": [
       "disney"
@@ -2414,7 +2414,7 @@
     "tags": [
       "light"
     ],
-    "rating": 8.5,
+    "rating": 8.2,
     "popularity": 39,
     "platforms": [
       "hbo"
@@ -2496,7 +2496,7 @@
     "tags": [
       "action"
     ],
-    "rating": 8.5,
+    "rating": 6.8,
     "popularity": 90,
     "platforms": [
       "disney"
@@ -2519,7 +2519,7 @@
     "rating": 8.8,
     "popularity": 37,
     "platforms": [
-      "netflix"
+      "disney"
     ],
     "description": "Bu belgesel dizisi, Kore'nin en karanlık dönemlerinden sağ kurtulanların yürek burkan hikâyelerini anlatarak, uzun zamandır gizlenen gerçekleri gün yüzüne çıkarıyor.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/qNOW4MsrK9aCSCJIbuMRqc5NrNv.jpg",
@@ -2658,7 +2658,7 @@
     "tags": [
       "light"
     ],
-    "rating": 7.1,
+    "rating": 8.9,
     "popularity": 44,
     "platforms": [
       "amazon"
@@ -2700,7 +2700,7 @@
       "dark",
       "thriller"
     ],
-    "rating": 7.4,
+    "rating": 9.8,
     "popularity": 80,
     "platforms": [
       "disney"
@@ -2720,7 +2720,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 7.1,
+    "rating": 6.3,
     "popularity": 72,
     "platforms": [
       "amazon"
@@ -3051,7 +3051,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.3,
+    "rating": 9.1,
     "popularity": 19,
     "platforms": [
       "disney"
@@ -3156,7 +3156,7 @@
     "rating": 7.3,
     "popularity": 59,
     "platforms": [
-      "netflix"
+      "disney"
     ],
     "description": "Bu belgesel dizisi, dünyanın zenginliklerini acımasızca yağmalarken şaşırtıcı derecede eşitlikçi bir cumhuriyet kuran gerçek Karayip korsanlarını ekrana taşıyor. (18 yaş ve üzeri için uygundur)",
     "posterUrl": "https://image.tmdb.org/t/p/w500/dPAJwlMo2SOJVpPk1vtYFLHKqRK.jpg",
@@ -3198,7 +3198,7 @@
     "rating": 8.3,
     "popularity": 44,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Operation Dream dizisi.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1rN5YmqUeJiHErsbPzGtoqdoy9o.jpg",
@@ -3218,7 +3218,7 @@
     "rating": 6.9,
     "popularity": 73,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Bu belgesel dizisi, dünyanın zenginliklerini acımasızca yağmalarken şaşırtıcı derecede eşitlikçi bir cumhuriyet kuran gerçek Karayip korsanlarını ekrana taşıyor. (18 yaş ve üzeri için uygundur)",
     "posterUrl": "https://image.tmdb.org/t/p/w500/dPAJwlMo2SOJVpPk1vtYFLHKqRK.jpg",
@@ -3318,7 +3318,7 @@
       "sci-fi",
       "light"
     ],
-    "rating": 5.6,
+    "rating": 9.2,
     "popularity": 80,
     "platforms": [
       "hbo"
@@ -3338,7 +3338,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 8.3,
+    "rating": 7.2,
     "popularity": 24,
     "platforms": [
       "amazon"
@@ -3358,7 +3358,7 @@
     "tags": [
       "dark"
     ],
-    "rating": 7.2,
+    "rating": 9.2,
     "popularity": 30,
     "platforms": [
       "disney"
@@ -3380,7 +3380,7 @@
       "light",
       "thriller"
     ],
-    "rating": 5.7,
+    "rating": 6.4,
     "popularity": 10,
     "platforms": [
       "hbo"
@@ -3503,7 +3503,7 @@
       "action",
       "sci-fi"
     ],
-    "rating": 6.7,
+    "rating": 10,
     "popularity": 75,
     "platforms": [
       "disney"
@@ -3647,7 +3647,7 @@
     "tags": [
       "thriller"
     ],
-    "rating": 5.3,
+    "rating": 9.6,
     "popularity": 15,
     "platforms": [
       "netflix"
@@ -3769,7 +3769,7 @@
     "tags": [
       "emotional"
     ],
-    "rating": 4.8,
+    "rating": 10,
     "popularity": 46,
     "platforms": [
       "amazon"
@@ -3811,7 +3811,7 @@
       "thriller",
       "light"
     ],
-    "rating": 5.7,
+    "rating": 7.1,
     "popularity": 95,
     "platforms": [
       "hbo"
@@ -3895,7 +3895,7 @@
     "rating": 9,
     "popularity": 73,
     "platforms": [
-      "netflix"
+      "amazon"
     ],
     "description": "Power Rangers, ABD'de 1993 yılından beri yayımlanmakta olan bir bilim kurgu-macera dizisi ile film serisinin ortak adıdır. Diziye gösterilen ilginin ardından 1995 yılında Mighty Morphin Power Rangers: The Movie, 1997 yılında ise Turbo: A Power Rangers Movie adlı filmler çekilmiştir.1992-1993 sezonunda Japonya'da yayımlanan Kyōryū Sentai Zyuranger adındaki Japon dizisinin ABD uyarlamasıdır. Dizinin ABD'de önce Zyu (Okunuşu: Jū) Rangers adıyla yayınlanması planlanmış, ancak Yahudileri aşağlayan \"Jew\" kelimesine benzediği için Power Rangers olarak değiştirilmiştir.Dizi iyi uzaylıların yardımıyla, dünyayı kötü uzaylılardan kurtaran gençlerin maceralarını anlatmaktadır. Gençler kötü uzaylıları yenmek için, \"zord\" adı verilen dev robotları kontrol edebilmektedirler. Dizideki robot sahneleri, genelde Japon versiyonundan alınıp İngilizce yeniden seslendirilmiş; diğer sahneleri ise Amerikalılar tarafından yeniden çekilmiştir. Diziye gösterilen ilgi sonucunda, karakterler ve oyuncular yıllar içerisinde sıkça değişmesine rağmen, dizi popülerliğini korumuştur. Öncelikle çocuklar için hazırlanmış, daha sonra zamanın çocukları tarafından benimsenmesiyle, takip eden sezonlarda gençlere de hitap etmeye başlamıştır.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
@@ -3996,7 +3996,7 @@
     "rating": 6.6,
     "popularity": 16,
     "platforms": [
-      "netflix"
+      "disney"
     ],
     "description": "Power Rangers, ABD'de 1993 yılından beri yayımlanmakta olan bir bilim kurgu-macera dizisi ile film serisinin ortak adıdır. Diziye gösterilen ilginin ardından 1995 yılında Mighty Morphin Power Rangers: The Movie, 1997 yılında ise Turbo: A Power Rangers Movie adlı filmler çekilmiştir.1992-1993 sezonunda Japonya'da yayımlanan Kyōryū Sentai Zyuranger adındaki Japon dizisinin ABD uyarlamasıdır. Dizinin ABD'de önce Zyu (Okunuşu: Jū) Rangers adıyla yayınlanması planlanmış, ancak Yahudileri aşağlayan \"Jew\" kelimesine benzediği için Power Rangers olarak değiştirilmiştir.Dizi iyi uzaylıların yardımıyla, dünyayı kötü uzaylılardan kurtaran gençlerin maceralarını anlatmaktadır. Gençler kötü uzaylıları yenmek için, \"zord\" adı verilen dev robotları kontrol edebilmektedirler. Dizideki robot sahneleri, genelde Japon versiyonundan alınıp İngilizce yeniden seslendirilmiş; diğer sahneleri ise Amerikalılar tarafından yeniden çekilmiştir. Diziye gösterilen ilgi sonucunda, karakterler ve oyuncular yıllar içerisinde sıkça değişmesine rağmen, dizi popülerliğini korumuştur. Öncelikle çocuklar için hazırlanmış, daha sonra zamanın çocukları tarafından benimsenmesiyle, takip eden sezonlarda gençlere de hitap etmeye başlamıştır.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",

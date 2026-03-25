@@ -31,8 +31,10 @@ const MOODS = [
 const PLATFORMS = [
   { id: 'netflix', label: 'Netflix' },
   { id: 'amazon', label: 'Amazon Prime' },
-  { id: 'blutv', label: 'BluTV' },
+  { id: 'hbo', label: 'HBO Max' },
   { id: 'disney', label: 'Disney+' },
+  { id: 'apple-tv', label: 'Apple TV+' },
+  { id: 'mubi', label: 'Mubi' },
 ];
 
 function MainContent() {
